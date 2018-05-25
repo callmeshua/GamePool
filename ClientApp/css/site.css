@@ -1,0 +1,190 @@
+.main-nav li .glyphicon {
+    margin-right: 10px;
+}
+
+/* Highlighting rules for nav menu items */
+.main-nav li a.active,
+.main-nav li a.active:hover,
+.main-nav li a.active:focus {
+    background-color: #0e1c2c;
+    color: white;
+}
+
+.copyright {
+    font-size: 75%;
+    color: #000;
+    padding: 10px 16px;
+    border-radius: 4px;
+    bottom: 0;
+    left: 0;
+    background-color: #cacaca;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h4{
+    font-size: 18px;
+    font-style: oblique;
+}
+
+.panel-background {
+    background-color: #333;
+    color: #3e720e;
+    color: #99aec7
+}
+
+.button-image{
+    z-index: -1;
+    width: auto;
+    height: auto;
+    align-content: center;
+    opacity: .25;
+}
+
+.backgroundLogo {
+    position: relative;
+    overflow: hidden;
+}
+
+.backgroundLogo:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: 100%;
+    vertical-align: middle;
+}
+
+.backgroundLogo div {
+    text-align: center;
+    z-index: 0;
+    overflow: hidden;
+    position: relative;
+    /* use this value to count block height */
+    line-height: 1.2em;
+    /* max-height = line-height (1.2) * lines max number (3) */
+    max-height: 7.2em;
+    font-size: 125%
+}
+
+/* Keep the nav menu independent of scrolling and on top of other items */
+.main-nav {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+/*multiline ellipsis from hackingui.com*/
+.block-with-text {
+    /* hide text if it more than N lines  */
+    overflow: hidden;
+    /* for set '...' in absolute position */
+    position: relative;
+    /* use this value to count block height */
+    line-height: 1.2em;
+    /* max-height = line-height (1.2) * lines max number (3) */
+    max-height: 3.6em;
+    font-size: 175%; 
+    height: 100%;
+}
+
+.dropdown-menu {
+    background-color: #315786;
+}
+
+.dropdown-menu li a{
+    color: white; 
+}
+
+.dropdown-menu li a:hover,
+.dropdown-menu li a:focus{
+    background-color: #769bca;
+    color: white;
+}
+
+.menu-item {
+    /*color: white;*/
+}
+
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    body {
+        padding-top: 50px;
+        margin-left: 0;
+    }
+    .main-div {
+        width: 100%;
+        background-color: #b5caea;
+    }
+    .main-nav {
+        left: 0;
+        right: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .main-nav {
+        height: 5%;
+        width: 85%;
+        align-content: center;
+        left: 7.5%
+    }
+    .main-nav .navbar {
+        border-radius: 0;
+        border-width: 0;
+        height: 100%;
+        background-color: #1d406b;
+        align-content: center;
+    }
+    body{
+        padding-top:50px;
+        margin-left: 0;
+    }
+    .main-div {
+        width: 85%;
+        background-color: #b5caea;
+    }
+    .main-nav .navbar-header {
+        background-color: #162c45;
+    }/*
+    .main-nav .navbar-collapse {
+        border-top: 1px solid #444;
+        padding: 0;
+    }*/
+    .main-nav .navbar ul {
+        float: none;
+    }
+    /*
+    .main-nav .navbar li {
+        float: none;
+        font-size: 15px;
+        margin: 6px;
+    }
+    .main-nav .navbar li a {
+        padding: 10px 16px;
+        border-radius: 4px;
+    }
+    .main-nav .navbar a {
+        /* If a menu item's text is too long, truncate it 
+        width: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    body{
+        margin-left: 150px;
+    }*/
+}
+

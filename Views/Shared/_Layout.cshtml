@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="title" content="GamePool" />
+    <meta property="og:title" content="GamePool" />
+    <meta name="description" content="GamePool: The Gaming News Aggregator" />
+    <meta property="og:description" content="GamePool: The Gaming News Aggregator" />
+    <meta name="image" content="https://i.imgur.com/M1CMfu0.png" />
+    <meta property="og:image" content="https://i.imgur.com/M1CMfu0.png" />
+    <meta name="keywords" content="GamePool, gaming, news, gaming news, news aggregate" />
+    <meta name="author" content="Joshua Karmel" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GamePool</title>
+    <base href="~/" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="~/dist/vendor.css" asp-append-version="true" />
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/dist/site.css" asp-append-version="true" />
+    </environment>
+</head>
+<body  style="background-color:#97b4e0">
+    @RenderBody()
+
+    <script src="~/dist/vendor.js" asp-append-version="true"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

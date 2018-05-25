@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<feed xml:base="https://www.destructoid.com/" xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+	<id>tag:,2018:blog</id>
+	<title>destructoid</title>
+	<link href="https://www.destructoid.com/?mode=atom"/>
+	<icon>http://bulk2.destructoid.com/ele2/images/destructoid/favicon.ico</icon>
+	<updated>2018-04-12T15:00:00Z</updated>
+	<atom10:link href="http://feeds.feedburner.com/Destructoid" rel="self" type="application/atom+xml" xmlns:atom10="http://www.w3.org/2005/Atom"/>
+	<feedburner:info uri="destructoid"/>
+	<atom10:link href="http://pubsubhubbub.appspot.com/" rel="hub" xmlns:atom10="http://www.w3.org/2005/Atom"/>
+	<link href="http://creativecommons.org/licenses/by/2.0/" rel="license" type="text/html"/>
+	<logo>http://creativecommons.org/images/public/somerights20.gif</logo>
+	<feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Destructoid" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare>
+	<feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FDestructoid" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498354</id>
+		<author>
+			<name>Peter Glagowski</name>
+			<uri>http://www.destructoid.com/blogs/Peter+Glagowski</uri>
+		</author>
+		<title>The Division is getting an Xbox One X update today</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/967_i6EKQVY/the-division-is-getting-an-xbox-one-x-update-today-498354.phtml"/>
+		<published>2018-04-12T15:00:00Z</published>
+		<updated>2018-04-12T15:00:00Z</updated>
+		<content type="html">&lt;p&gt;Ubisoft will be adding support for Microsoft's improved Xbox One console with &lt;em&gt;The Division&lt;/em&gt;'s&amp;nbsp;1.81 patch. Along with a 4K resolution boost, this update will also bring a couple of new events to each version of the game. Details are sparse, but players will be treated to &quot;Blackout&quot; in April and &quot;Onslaught&quot; in May.&lt;/p&gt;
+&lt;p&gt;The rest of the patch notes can be viewed below.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498354-DIVISION.jpg&quot; alt=&quot;The Division is getting an Xbox One X update today screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/the-division-is-getting-an-xbox-one-x-update-today-498354.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/967_i6EKQVY&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/the-division-is-getting-an-xbox-one-x-update-today-498354.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498383</id>
+		<author>
+			<name>Brett Makedonski</name>
+			<uri>http://www.destructoid.com/blogs/Brett+Makedonski</uri>
+		</author>
+		<title>Banner Saga 3 finishes the fight in July</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/fazklemVNac/banner-saga-3-finishes-the-fight-in-july-498383.phtml"/>
+		<published>2018-04-12T14:45:00Z</published>
+		<updated>2018-04-12T14:45:00Z</updated>
+		<content type="html">&lt;p&gt;The sun is about to set on &lt;em&gt;The Banner Saga&lt;/em&gt;. More than four years after the original first launched, the conclusion to the trilogy is nearly upon us.&lt;/p&gt;
+&lt;p&gt;Publisher Versus Evil revealed today that &lt;em&gt;The Banner Saga 3&lt;/em&gt;&amp;nbsp;will release on July 24. It's launching simultaneously on PC, PS4, Switch, and Xbox One; mobile platforms will follow sometime later this year. It's going to be priced at $25, but there will also be $30 and $40 versions that have bonus items.&lt;/p&gt;
+&lt;p&gt;For anyone who's new to &lt;em&gt;Banner Saga&lt;/em&gt;, this might actually be a fine time to jump into the series. 505 Games is manufacturing physical editions of the &lt;em&gt;Banner Saga&lt;/em&gt;&amp;nbsp;trilogy for PS4 and Xbox One that will run $40. It's a lot of viking fighting but someone's gotta be a hero. Might as well be you.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498383-BSHeader.jpg&quot; alt=&quot;Banner Saga 3 finishes the fight in July screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/banner-saga-3-finishes-the-fight-in-july-498383.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/fazklemVNac&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/banner-saga-3-finishes-the-fight-in-july-498383.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498335</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Nintendo Switch footage surfaces for Ys VIII: Lacrimosa of Dana</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/oL1yM60BkNM/nintendo-switch-footage-surfaces-for-ys-viii-lacrimosa-of-dana-498335.phtml"/>
+		<published>2018-04-12T14:30:00Z</published>
+		<updated>2018-04-12T14:30:00Z</updated>
+		<content type="html">&lt;p&gt;We're almost on the home stretch. After next week, there is just &lt;em&gt;one more&lt;/em&gt; port of &lt;em&gt;Ys VIII: Lacrimosa of Dana&lt;/em&gt; to be released and then, hopefully, NIS America can rest easy on the troubled RPG. &lt;br /&gt;&lt;br /&gt;The publishers have released several videos showcasing the Nintendo Switch version in action, ahead of its June release. The videos feature Adol and pals mid-quest as they traverse the fantasy landscape, fighting monsters and crawling through dungeons. What do you think?&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Ys VIII&lt;/em&gt; launched in Fall 2017 on PS4 and PS Vita, lumbered with a variety of (since resolved) issues. The much delayed PC port has &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/ys-viii-finally-finally-receives-pc-release-date-498033.phtml&quot;&gt;finally been given a release date&lt;/a&gt; of April 16, with this Switch edition currently set for launch on June 26 in North America and June 29 in Europe.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498335-ysviii.jpg&quot; alt=&quot;Nintendo Switch footage surfaces for Ys VIII: Lacrimosa of Dana screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/nintendo-switch-footage-surfaces-for-ys-viii-lacrimosa-of-dana-498335.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/oL1yM60BkNM&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/nintendo-switch-footage-surfaces-for-ys-viii-lacrimosa-of-dana-498335.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498374</id>
+		<author>
+			<name>Brett Makedonski</name>
+			<uri>http://www.destructoid.com/blogs/Brett+Makedonski</uri>
+		</author>
+		<title>Forza Horizon 4 is most likely getting an E3 reveal</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/x8ZhZKVH5Zs/forza-horizon-4-is-most-likely-getting-an-e3-reveal-498374.phtml"/>
+		<published>2018-04-12T14:15:00Z</published>
+		<updated>2018-04-12T14:15:00Z</updated>
+		<content type="html">&lt;p&gt;It's not exactly obvious, but &lt;a href=&quot;https://www.destructoid.com/it-s-an-important-year-for-the-annualization-of-forza-369962.phtml&quot; target=&quot;_blank&quot;&gt;Microsoft has turned &lt;em&gt;Forza&lt;/em&gt;&amp;nbsp;into an annualized franchise&lt;/a&gt;. The reason it's obfuscated a bit is because the cycle goes &lt;em&gt;Forza Motorsport&lt;/em&gt;&amp;nbsp;then &lt;em&gt;Forza Horizon&lt;/em&gt;&amp;nbsp;then &lt;em&gt;Forza Motorsport&lt;/em&gt;&amp;nbsp;again. They're very different series that are both under the same racing banner.&lt;/p&gt;
+&lt;p&gt;That's why it's not necessarily surprising to hear talk of &lt;em&gt;Forza Horizon 4&lt;/em&gt;&amp;nbsp;getting an E3 announcement. Xbox's Fernando Delgado, the head of Xbox in Spain and Portugal, told &lt;a target=&quot;_blank&quot; href=&quot;https://www.gamereactor.es/noticias/487563/El+nuevo+Forza+Horizon+acelera+con+el+E3+a+la+vista/&quot;&gt;GameReacto&lt;/a&gt;r a little more than he meant to. Delgado sidestepped a question about the not-yet-revealed game by saying &quot;&lt;span&gt;There have been many speculations about where the next&amp;nbsp;&lt;/span&gt;&lt;em&gt;Forza Horizon&amp;nbsp;&lt;/em&gt;&lt;span&gt;will be and that is what we will tell later at E3.&quot; Xbox has since walked back Delgado's statement, ostensibly calling it speculation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;But if it truly were speculation (and it's probably not!), at least it's smart speculation. Xbox has had the pedal to the floor with &lt;em&gt;Forza&lt;/em&gt;&amp;nbsp;and there's no real sign that it intends to slow down. There's a rumor that &lt;a href=&quot;https://www.destructoid.com/rumor-new-fable-in-the-works-from-forza-horizon-developer-482929.phtml&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Forza Horizon&lt;/em&gt;&amp;nbsp;developer Playground Games is working on a new &lt;em&gt;Fable&lt;/em&gt;&lt;/a&gt;, but Playground also recently opened a second studio. There's likely enough staff to commit to both. If so, &lt;i&gt;Forza Horizon 4&lt;/i&gt;&amp;nbsp;would be one of the more rock solid and least shocking announcements of E3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gamereactor.es/noticias/487563/El+nuevo+Forza+Horizon+acelera+con+el+E3+a+la+vista/&quot; target=&quot;_blank&quot;&gt;El nuevo Forza Horizon acelera con el E3 a la vista&lt;/a&gt; [GameReactor]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498374-ForzaHeader.jpg&quot; alt=&quot;Forza Horizon 4 is most likely getting an E3 reveal screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/x8ZhZKVH5Zs&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/forza-horizon-4-is-most-likely-getting-an-e3-reveal-498374.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498271</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Here's the first look at the BlazBlue: Cross Tag Battle English dub</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/tyLj4L9CDHk/here-s-the-first-look-at-the-blazblue-cross-tag-battle-english-dub-498271.phtml"/>
+		<published>2018-04-12T14:00:00Z</published>
+		<updated>2018-04-12T14:00:00Z</updated>
+		<content type="html">&lt;p&gt;If you're into &lt;span style=&quot;text-decoration: line-through;&quot;&gt;making&lt;/span&gt; dubs, Arc System Works just dropped the first look at the &lt;em&gt;BlazBlue: Cross Tag Battle&lt;/em&gt; English dub on Twitter (which you can watch below).&lt;/p&gt;
+&lt;p&gt;This is significant as&amp;nbsp;&lt;em&gt;BlazBlue: Central Fiction&lt;/em&gt;, the last major&lt;em&gt;&amp;nbsp;BlazBlue&lt;/em&gt; game, did not have an English dub. Fans petitioned for one and rallied even weeks after its launch for a DLC update: but one never came.&lt;/p&gt;
+&lt;p&gt;I'm happy to see a lot of the same cast back, and once again, options are great!&amp;nbsp;&lt;em&gt;BlazBlue: Cross Tag Battle&lt;/em&gt; will be released on PC, PS4, and Switch on May 31 in Japan, and June 5 in the US. The European release is still not dated, and it's not entirely clear that the Switch edition will launch on time.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498271-BBF.jpg&quot; alt=&quot;Here's the first look at the BlazBlue: Cross Tag Battle English dub screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/here-s-the-first-look-at-the-blazblue-cross-tag-battle-english-dub-498271.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/tyLj4L9CDHk&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/here-s-the-first-look-at-the-blazblue-cross-tag-battle-english-dub-498271.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498375</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>Warhammer: Vermintide 2 clears a million sales</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/JMkoz7GEh5w/warhammer-vermintide-2-clears-a-million-sales-498375.phtml"/>
+		<published>2018-04-12T13:45:00Z</published>
+		<updated>2018-04-12T13:45:00Z</updated>
+		<content type="html">&lt;p&gt;Fatshark's co-op melee action game &lt;em&gt;&lt;a href=&quot;https://www.destructoid.com/review-warhammer-vermintide-2-494305.phtml&quot; target=&quot;_blank&quot;&gt;Warhammer: Vermintide 2&lt;/a&gt; &lt;/em&gt;pulled in half a million sales in its first week and now, five weeks in, the PC title has passed the million-units-sold milestone. That timetable is &quot;far quicker than we ever expected,&quot; according to CEO Martin Wahlund.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GfYBSWAOcZs&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;The game's &lt;a href=&quot;https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/&quot; target=&quot;_blank&quot;&gt;10 percent off&lt;/a&gt; for the next week on Steam, which means it down to $26.99. Fatshark has done a &lt;a href=&quot;https://steamcommunity.com/games/552500/announcements/detail/1654385510012326339&quot; target=&quot;_blank&quot;&gt;good job with patches so far, too&lt;/a&gt;; it seems like &lt;em&gt;Vermintide 2 &lt;/em&gt;is better every time I boot it up. It really does bring back those early &lt;em&gt;Left 4 Dead &lt;/em&gt;memories, albeit with a melee-centric twist.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Vermintide 2 &lt;/em&gt;is only available on PC right now, but Xbox One and PS4 versions are on the way.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498375-h1.jpg&quot; alt=&quot;Warhammer: Vermintide 2 clears a million sales screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/JMkoz7GEh5w&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/warhammer-vermintide-2-clears-a-million-sales-498375.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498319</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>You can check out PUBG for free on Xbox One next week</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/q4BK96YU9i8/you-can-check-out-pubg-for-free-on-xbox-one-next-week-498319.phtml"/>
+		<published>2018-04-12T13:30:00Z</published>
+		<updated>2018-04-12T13:30:00Z</updated>
+		<content type="html">&lt;p&gt;Microsoft have announced that, as part of next week's Xbox Live Gold Free Play Days promotion, Xbox One owners will be able to run around in battle royale title &lt;em&gt;PlayerUnknown's Battlegrounds&lt;/em&gt; without dropping a dime.&lt;br /&gt;&lt;br /&gt;Between April 19 and April 22, Xbox Live Gold subscribers can download the preview build of the popular online shooter, complete with all modes, and run around to their heart's content. Any BP acquired during the trial will be transferred to the main game should you pull the trigger on a full purchase.&lt;br /&gt;&lt;br /&gt;In related news, &lt;em&gt;PUBG&lt;/em&gt; received its twelfth update yesterday. The new patch continues to work on general stability and connectivity issues with the game, while also taking out a few bugs. Update 12 also added the new Western Military Crate to the game, providing you and your personal posse with new ways to become the last man/woman standing. A&lt;a href=&quot;https://www.destructoid.com/xbox-to-get-playerunknown-s-battlegrounds-desert-map-in-may-497918.phtml&quot; target=&quot;_blank&quot;&gt; new map&lt;/a&gt; is also on the way You can check out the full patch notes &lt;a href=&quot;https://forums.playbattlegrounds.com/topic/208879-xbox-game-preview-patch-notes-12/&quot; target=&quot;_blank&quot;&gt;right here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;PlayerUnknown's Battlegrounds&lt;/em&gt; is available now on Xbox One and PC.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498319-pubg.jpg&quot; alt=&quot;You can check out PUBG for free on Xbox One next week screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/q4BK96YU9i8&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/you-can-check-out-pubg-for-free-on-xbox-one-next-week-498319.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498313</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>CCP unveils details for new EVE Online expansion 'Into the Abyss'</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/6zLnofJ-ySQ/ccp-unveils-details-for-new-eve-online-expansion-into-the-abyss--498313.phtml"/>
+		<published>2018-04-12T13:00:00Z</published>
+		<updated>2018-04-12T13:00:00Z</updated>
+		<content type="html">&lt;p&gt;Today during their 2018 Fanfest keynote, CCP Games announced the new &lt;em&gt;Into the Abyss&lt;/em&gt;&amp;nbsp;expansion for &lt;em&gt;EVE Online&lt;/em&gt;. It'll take them into the Abyssal Deadspace, a special new Deadspace location beyond the normal pockets. It's a unique hostile environment with new NPCs and rare loot.&lt;/p&gt;
+&lt;p&gt;Because of the way &lt;em&gt;EVE&lt;/em&gt;&amp;nbsp;is structured, it'll be free for all players, not just subscribers.&amp;nbsp;As a reminder EVE went free-to-play in late 2016, and just last year CCP removed some of the training wheels for free accounts, allowing them to advance their characters more freely.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Into the Abyss&lt;/em&gt;&amp;nbsp;will also feature Faction Citadels, player-created landmarks, a new race of NPCs with ships and modules (Triglavians) and a (non-retroactive) character progression activity tracker -- with multiple progression paths and milestones. The Triglavians &quot;appear to be human&quot; in their origin according to the lore, but are a bit off due to their isolation from other civilizations. You'll access the new Abyssal Deadspace through new items called &quot;filaments,&quot; which are basically dungeon keys/&lt;em&gt;Diablo III&lt;/em&gt;&amp;nbsp;rifts&amp;nbsp;that can be activated by cruisers with varying rarity.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Into the Abyss&lt;/em&gt;&amp;nbsp;is the 38th named expansion for &lt;em&gt;EVE &lt;/em&gt;and it'll launch on May 29. Their first was the &lt;em&gt;Castor&lt;/em&gt;&amp;nbsp;update in December of 2003, seven months after the original launch.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498313-EVE2.jpg&quot; alt=&quot;CCP unveils details for new EVE Online expansion 'Into the Abyss' screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/ccp-unveils-details-for-new-eve-online-expansion-into-the-abyss--498313.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/6zLnofJ-ySQ&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/ccp-unveils-details-for-new-eve-online-expansion-into-the-abyss--498313.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498318</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>French retailer unveils exclusive Limited Edition for Street Fighter 30th Anniversary Collection</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/qjzhXS9E5ZI/french-retailer-unveils-exclusive-limited-edition-for-street-fighter-30th-anniversary-collection-498318.phtml"/>
+		<published>2018-04-12T12:30:00Z</published>
+		<updated>2018-04-12T12:30:00Z</updated>
+		<content type="html">&lt;p&gt;French retailer &lt;a target=&quot;_blank&quot; href=&quot;https://www.editionspixnlove.com/&quot;&gt;Pix'n Love&lt;/a&gt; have tweeted out images of a Limited Edition set for Capcom's upcoming compendium &lt;em&gt;Street Fighter 30th Anniversary Collection.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;The set, which appears to be exclusive to the artsy retailer, contains the Nintendo Switch edition of the game, new packaging, a selection of A5 art prints from the whole &lt;em&gt;Street Fighter&lt;/em&gt; series and an 80 page art book, looking at over three decades of iconic series' visuals.&lt;br /&gt;&lt;br /&gt;Anyone interested in picking up this set should note that &lt;a target=&quot;_blank&quot; href=&quot;https://www.editionspixnlove.com/&quot;&gt;pre-orders open on-site&lt;/a&gt; tomorrow, April 13, at 10:00 CET. A previously noted, these appears to be a website exclusive, and it unlikely to be available outside of France.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Street Fighter 30th Anniversary Collection&lt;/em&gt; hits PC, PS4, Xbox One and Nintendo Switch May 29.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498318-sfanni.jpg&quot; alt=&quot;French retailer unveils exclusive Limited Edition for Street Fighter 30th Anniversary Collection screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/french-retailer-unveils-exclusive-limited-edition-for-street-fighter-30th-anniversary-collection-498318.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/qjzhXS9E5ZI&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/french-retailer-unveils-exclusive-limited-edition-for-street-fighter-30th-anniversary-collection-498318.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=497165</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Review: God of War (PS4)</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/T3VCU1e2WM4/review-god-of-war-ps4--497165.phtml"/>
+		<published>2018-04-12T12:00:00Z</published>
+		<updated>2018-04-12T12:00:00Z</updated>
+		<content type="html">&lt;p&gt;I was highly skeptical of the soft &lt;em&gt;God of War&lt;/em&gt;&amp;nbsp;Norse reboot. I'm always willing to give something a shot, but taking the fast and frenetic combat of the original series and slowing it down to focus on a father and son relationship? It's a bold and risky move.&lt;/p&gt;
+&lt;p&gt;One that paid off in spades.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/497165-GRA23.jpg&quot; alt=&quot;Review: God of War (PS4) screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/review-god-of-war-ps4--497165.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/T3VCU1e2WM4&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/review-god-of-war-ps4--497165.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498239</id>
+		<author>
+			<name>Rich Meister</name>
+			<uri>http://www.destructoid.com/blogs/Rich+Meister</uri>
+		</author>
+		<title>Semblance is one adorable puzzle platformer</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/m_eKPygDj3c/semblance-is-one-adorable-puzzle-platformer-498239.phtml"/>
+		<published>2018-04-12T11:30:00Z</published>
+		<updated>2018-04-12T11:30:00Z</updated>
+		<content type="html">&lt;p&gt;In between my meetings at PAX East I spent my spare time walking the floor looking for any games that might otherwise go unnoticed. After finishing up my meeting with the developers of &lt;em&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/black-future-88-is-a-rogue-lite-with-synth-punk-style-497969.phtml&quot;&gt;Black Future '88&lt;/a&gt;&lt;/em&gt;, I ended up checking out another game nearby.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The game from South African studio Nyamakop is called&amp;nbsp;&lt;em&gt;Semblance&lt;/em&gt;, and its art immediately&amp;nbsp;reminded me of&lt;em&gt; LocoRoco&lt;/em&gt;, which was more than enough to pull me in. I got to chatting with one of the developers, Ben Myres, about the project's origins and what sets it apart from other platformers.&amp;nbsp;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498239-SEM1.jpg&quot; alt=&quot;Semblance is one adorable puzzle platformer screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/semblance-is-one-adorable-puzzle-platformer-498239.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/m_eKPygDj3c&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/semblance-is-one-adorable-puzzle-platformer-498239.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498338</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Nintendo Download: Don't Starve</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/mhueF9A7M9g/nintendo-download-don-t-starve-498338.phtml"/>
+		<published>2018-04-12T11:00:00Z</published>
+		<updated>2018-04-12T11:00:00Z</updated>
+		<content type="html">&lt;p&gt;The big release this week on Switch is &lt;em&gt;Don't Starve&lt;/em&gt;, but as usual the platform is dominating the landscape with 95% of Nintendo's eShop drops.&lt;/p&gt;
+&lt;p&gt;It's also hosting &lt;em&gt;Breakforcist Battle, NeoGeo Gururin, Asdivine Hearts, Burly Men at Sea, Dragon Blaze, Drone Fight, Eternal Edge, It's Spring Again, Pirates: All Aboard, Regalia: Of Men and Monarchs, Rogue Aces, Skies of Fury DX, Streets of Red - Devil's Dare Deluxe, Word Search by POWGI, &lt;/em&gt;and&amp;nbsp;&lt;em&gt;Zotrix: Solar Division&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The Wii U getting &lt;a target=&quot;_blank&quot; href=&quot;https://www.nintendo.com/games/detail/shadow-archery-wii-u&quot;&gt;the bizarre &lt;i&gt;Shadow Archery&lt;/i&gt;&lt;/a&gt;, which is free for a limited time and will revert to $0.99. Are you a bad enough dude to boot up your Wii U to install it?&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498338-CT1.jpg&quot; alt=&quot;Nintendo Download: Don't Starve screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/nintendo-download-don-t-starve-498338.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/mhueF9A7M9g&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/nintendo-download-don-t-starve-498338.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498308</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Najd, one of the most unique King of Fighters characters in years, is out today in KOF XIV's 3.0 update</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/tid6pI18qz0/najd-one-of-the-most-unique-king-of-fighters-characters-in-years-is-out-today-in-kof-xiv-s-3-0-update-498308.phtml"/>
+		<published>2018-04-12T10:30:00Z</published>
+		<updated>2018-04-12T10:30:00Z</updated>
+		<content type="html">&lt;p&gt;Despite getting knocked off the main stage at EVO 2018, SNK has steadily been supporting &lt;em&gt;King of Fighters XIV&lt;/em&gt; -- overhauling its visual style, adding new fighters, and tweaking old ones.&lt;/p&gt;
+&lt;p&gt;Part of that support is by way of patch 3.0, which adds in Blue Mary, Heidern, Oswald, and Najd -- the latter of which is the winner of a create-a-character contest.&amp;nbsp;Created by Saudi Arabian artist Mashael Al-Barrak, Najd dons an Abaya at night that grants her shadow powers, and lives as a college student during the day. She's rad and I can't wait to try her out.&lt;/p&gt;
+&lt;p&gt;Oh, and there's a 31-page English changelog that explains everything in 3.0! SNK should really be commended for their support.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.snk-corp.co.jp/us/games/kof-xiv/news/KOF-XIV_patch_ver.3.00_en.pdf&quot; target=&quot;_blank&quot;&gt;Ver 3.0 patch notes&lt;/a&gt; [SNK]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498308-AA1.jpg&quot; alt=&quot;Najd, one of the most unique King of Fighters characters in years, is out today in KOF XIV's 3.0 update screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/najd-one-of-the-most-unique-king-of-fighters-characters-in-years-is-out-today-in-kof-xiv-s-3-0-update-498308.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/tid6pI18qz0&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/najd-one-of-the-most-unique-king-of-fighters-characters-in-years-is-out-today-in-kof-xiv-s-3-0-update-498308.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498267</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Rival Megagun is a PVP-centric shmup coming to Switch and other platforms</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/ZTDZtLWVh1c/rival-megagun-is-a-pvp-centric-shmup-coming-to-switch-and-other-platforms-498267.phtml"/>
+		<published>2018-04-12T10:00:00Z</published>
+		<updated>2018-04-12T10:00:00Z</updated>
+		<content type="html">&lt;p&gt;There are only a handful of popular competitive shmups out there, and when people even mention the fairly niche subgenre, &lt;em&gt;Twinkle Star Sprites&lt;/em&gt; immediately enters the conversation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rival Megagun&lt;/em&gt; has the potential to make a similar impact when it releases later this year. Published by Degica and developed by Spacewave Software, &lt;em&gt;Rival Megagun&lt;/em&gt; is set for the PC, PS4, Xbox One, and Switch platforms. The gist is that you'll battle each other via split-screen play, and players have the ability to morph into a boss and rain down hellfire on their opponent.&lt;/p&gt;
+&lt;p&gt;It also sports a nice little art style that's a good mix of new and old sensibilities. I'm in!&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498267-AAF1.jpg&quot; alt=&quot;Rival Megagun is a PVP-centric shmup coming to Switch and other platforms screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/rival-megagun-is-a-pvp-centric-shmup-coming-to-switch-and-other-platforms-498267.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/ZTDZtLWVh1c&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/rival-megagun-is-a-pvp-centric-shmup-coming-to-switch-and-other-platforms-498267.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498347</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Legendary warrior Siegfried returns in Soulcalibur VI</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/HYFAW3slqF0/legendary-warrior-siegfried-returns-in-soulcalibur-vi-498347.phtml"/>
+		<published>2018-04-12T09:43:00Z</published>
+		<updated>2018-04-12T09:43:00Z</updated>
+		<content type="html">&lt;p&gt;Bandai Namco have released a trailer showcasing the next fighter to return to the Stage of History. This time around, it's none other than the backbone of the entire &lt;em&gt;Soulcalibur&lt;/em&gt; storyline, Siegfried Schtauffen.&lt;br /&gt;&lt;br /&gt;Siegfried, who made his debut in the original &lt;em&gt;Soul Edge&lt;/em&gt; and has been a series mainstay ever since, is a German knight whose mind was lost when he mistakenly beheaded his own father on the battlefield. Riddled with guilt and denial, the young knight began a bitter journey to capture the legendary weapon, Soul Edge, a journey that would see him transformed into the twisted azure knight, Nightmare.&lt;br /&gt;&lt;br /&gt;Now returned to his true self, bitterly haunted by the memories of atrocities performed whilst under the weapon's power, Siegfried returns to battle, seeking redemption and the ultimate destruction of Soul Edge's terrible curse.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Soulcalibur VI&lt;/em&gt; launches on PC, PS4 and Xbox One later in 2018.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498347-sieg.jpg&quot; alt=&quot;Legendary warrior Siegfried returns in Soulcalibur VI screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/legendary-warrior-siegfried-returns-in-soulcalibur-vi-498347.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/HYFAW3slqF0&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/legendary-warrior-siegfried-returns-in-soulcalibur-vi-498347.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498277</id>
+		<author>
+			<name>Mike Sounders</name>
+			<uri>http://www.destructoid.com/blogs/Mike+Sounders</uri>
+		</author>
+		<title>Senran Kagura, Fate/Extella Link coming west, Bullet Witch soars onto PC</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/IfejSdb8-yU/senran-kagura-fate-extella-link-coming-west-bullet-witch-soars-onto-pc-498277.phtml"/>
+		<published>2018-04-12T09:00:00Z</published>
+		<updated>2018-04-12T09:00:00Z</updated>
+		<content type="html">&lt;p&gt;Publisher XSEED Games has announced the localization of several anticipated titles for this year on multiple platforms. The games coming our way are &lt;i&gt;Senran Kagura Reflexions&lt;/i&gt;,&lt;i&gt; Senran Kagura Burst Re:Newal&lt;/i&gt;, and &lt;i&gt;Fate/Extella Link&lt;/i&gt;. In addition, the company revealed that &lt;i&gt;Bullet Witch&lt;/i&gt;, an older Japanese game with the misfortune to release exclusively on the 360, would be coming to PC this month.&lt;/p&gt;
+&lt;p&gt;You can check out the teaser trailer for the titles below.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498277-matt.jpg&quot; alt=&quot;Senran Kagura, Fate/Extella Link coming west, Bullet Witch soars onto PC screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/senran-kagura-fate-extella-link-coming-west-bullet-witch-soars-onto-pc-498277.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/IfejSdb8-yU&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/senran-kagura-fate-extella-link-coming-west-bullet-witch-soars-onto-pc-498277.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498265</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Disgaea 5 Complete dated on Steam</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/o1QEyQSn1hA/disgaea-5-complete-dated-on-steam-498265.phtml"/>
+		<published>2018-04-12T08:00:00Z</published>
+		<updated>2018-04-12T08:00:00Z</updated>
+		<content type="html">&lt;p&gt;As usual, the lineage of even one &lt;em&gt;Disgaea&lt;/em&gt; game, or NIS SRPG to be less specific, can get complicated.&lt;/p&gt;
+&lt;p&gt;The original &lt;em&gt;Disgaea 5,&lt;/em&gt; which told the tale of Killia and his revenge against the Demon Emperor Void Dark, was released in 2015 on PS4. Then it pivoted onto Switch on 2017, and this year, Steam. The latter two are actually billed as &quot;Complete&quot; editions, which include all sorts of previously released DLC and gameplay tweaks.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We've known about the Steam version for a bit, but as of this week NIS gave us a final release date -- May 7, 2018. If you don't own a Switch it's probably worth picking up, but just make sure the PC port is A-OK first (given that&amp;nbsp;&lt;em&gt;Disgaea&lt;/em&gt;'s Steam port was a success, it probably will be, but you never know).&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://store.steampowered.com/app/803600/Disgaea_5_Complete__5/&quot;&gt;Disgaea 5 Complete&lt;/a&gt; [Steam]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498265-RR.jpg&quot; alt=&quot;Disgaea 5 Complete dated on Steam screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/o1QEyQSn1hA&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/disgaea-5-complete-dated-on-steam-498265.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498329</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>CCP's long lost 'Project Nova' EVE Online shooter is alive, information coming 'within months, not years'</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/9glLzYTilAg/ccp-s-long-lost-project-nova-eve-online-shooter-is-alive-information-coming-within-months-not-years--498329.phtml"/>
+		<published>2018-04-12T07:02:00Z</published>
+		<updated>2018-04-12T07:02:00Z</updated>
+		<content type="html">&lt;p&gt;CCP CEO&amp;nbsp;Hilmar Veigar P&amp;eacute;tursson announced live on the 2018 &lt;em&gt;EVE&lt;/em&gt;&amp;nbsp;Fanfest stage today that &lt;em&gt;Project Nova&lt;/em&gt;, their long-awaited shooter that rose from the ashes of the defunct &lt;em&gt;Dust 514&lt;/em&gt;, is still in active development.&lt;/p&gt;
+&lt;p&gt;Last year&amp;nbsp;P&amp;eacute;tursson noted that they couldn't share that many details on the game, but now he's a little less sheepish. Information for &lt;em&gt;Nova&lt;/em&gt;&amp;nbsp;will be released on PC within &quot;months, not years,&quot; and initially will not be connected to &lt;em&gt;EVE Online&lt;/em&gt;.&amp;nbsp;P&amp;eacute;tursson and his team really want to commit to the &quot;one universe&quot; &lt;em&gt;EVE&lt;/em&gt;&amp;nbsp;concept, but not linking it is a smart move at the moment. CCP isn't afraid to shuck failed projects, and if &lt;em&gt;NOVA &lt;/em&gt;doesn't catch on they can toss it before it cuts into their bottom line.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nova&lt;/em&gt;&amp;nbsp;is still not playable on the Fanfest floor, but the &quot;months&quot; promise has me hopeful that we'll actually get to see it in action anytime soon.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498329-AAA.jpg&quot; alt=&quot;CCP's long lost 'Project Nova' EVE Online shooter is alive, information coming 'within months, not years' screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/9glLzYTilAg&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/ccp-s-long-lost-project-nova-eve-online-shooter-is-alive-information-coming-within-months-not-years--498329.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498312</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Watch EVE Online's 2018 Fanfest keynote here</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/JICtF1dZLIk/watch-eve-online-s-2018-fanfest-keynote-here-498312.phtml"/>
+		<published>2018-04-12T06:00:00Z</published>
+		<updated>2018-04-12T06:00:00Z</updated>
+		<content type="html">&lt;p&gt;It's probably early where you're at, but it's almost high noon in Iceland!&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/ccp-announces-expansion-into-more-eve-fanfests-including-unannounced-east-coast-site-465582.phtml&quot;&gt;As announced last year during EVE Vegas&lt;/a&gt;, despite expanding into more territories beyond Iceland and Vegas (&quot;Eve Down Under&quot; in Australia, and an undisclosed east coast event), EVE Fanfest proper is still happening in Reykjavik, and we're on location. In a press pre-briefing &lt;em&gt;EVE&lt;/em&gt;&amp;nbsp;developer CCP noted that it was their &quot;biggest Fanfest yet,&quot; beating out their previous record of last year's attendance.&lt;/p&gt;
+&lt;p&gt;Over 1,000 players and 200+ CCP devs (the vast majority of the 300-ish the company employs worldwide) are here, and the game is still alive and well -- with CCP reporting $81.4 million in revenue ($18.1m of which is profit). If you're interested you can watch the stream below as we cover any potential announcements!&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498312-eve.jpg&quot; alt=&quot;Watch EVE Online's 2018 Fanfest keynote here screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/watch-eve-online-s-2018-fanfest-keynote-here-498312.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/JICtF1dZLIk&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/watch-eve-online-s-2018-fanfest-keynote-here-498312.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498263</id>
+		<author>
+			<name>Jonathan Holmes</name>
+			<uri>http://www.destructoid.com/blogs/Jonathan+Holmes</uri>
+		</author>
+		<title>Two best friends almost couldn't play this game repped by Matt McMuscles</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/vTTTl4kXfEY/two-best-friends-almost-couldn-t-play-this-game-repped-by-matt-mcmuscles-498263.phtml"/>
+		<published>2018-04-11T21:00:00Z</published>
+		<updated>2018-04-11T21:00:00Z</updated>
+		<content type="html">&lt;p&gt;&lt;iframe width=&quot;620&quot; height=&quot;376&quot; src=&quot;https://www.youtube.com/embed/DSwVXgXsJP8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;We may have already recapped our &lt;a href=&quot;https://www.destructoid.com/check-out-this-round-up-of-destructoid-s-time-at-pax-east-498172.phtml&quot; target=&quot;_blank&quot;&gt;PAX East coverage for this year&lt;/a&gt;, but I plan to keep dribbling out time-insensitive posts for at least another week. Case in point, some small talk with Matt McMuscles from the &lt;a href=&quot;https://www.youtube.com/user/TheSw1tcher&quot; target=&quot;_blank&quot;&gt;Two Best Friends Play series&lt;/a&gt;. He's been helping out with development and marketing for &lt;em&gt;&lt;a href=&quot;https://store.steampowered.com/app/418620/The_TakeOver/&quot; target=&quot;_blank&quot;&gt;The Takeover&lt;/a&gt;&lt;/em&gt;, a new beat-'em-up that pays tributes to the classics without being a slave to their particulars.&lt;/p&gt;
+&lt;p&gt;The game is on Steam Early Access right now, and will be &lt;a href=&quot;https://www.destructoid.com/the-takeover-coming-to-nintendo-switch-456142.phtml&quot; target=&quot;_blank&quot;&gt;coming to Switch soon enough&lt;/a&gt;. We chatted with Matt about the co-op surprise in the demo he brought to the show, the boss fight with &lt;a href=&quot;https://www.destructoid.com/zubaz-is-a-secret-boss-in-shovel-knight-267918.phtml&quot;&gt;The Baz,&lt;/a&gt; and even the Xbox One. That last topic didn't last very long though.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Thanks again for taking the time Matt. Few can pack banter into a video game YouTube like you can.&amp;nbsp;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498263-DH63jIRU0AQEAvo.jpg&quot; alt=&quot;Two best friends almost couldn't play this game repped by Matt McMuscles screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/vTTTl4kXfEY&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/two-best-friends-almost-couldn-t-play-this-game-repped-by-matt-mcmuscles-498263.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498262</id>
+		<author>
+			<name>Peter Glagowski</name>
+			<uri>http://www.destructoid.com/blogs/Peter+Glagowski</uri>
+		</author>
+		<title>Sony is shutting down the servers for ModNation Racers and LittleBigPlanet Karting</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/mngG9029X0E/sony-is-shutting-down-the-servers-for-modnation-racers-and-littlebigplanet-karting-498262.phtml"/>
+		<published>2018-04-11T20:30:00Z</published>
+		<updated>2018-04-11T20:30:00Z</updated>
+		<content type="html">&lt;p&gt;Sony will be shutting down the servers for &lt;em&gt;ModNation Racers&lt;/em&gt; and &lt;em&gt;LittleBigPlanet Karting&lt;/em&gt; on the PS3 this July. The former game will run its final lap on July 10 while the latter will hit pole position on July 2. Not only that, but &lt;em&gt;Gravity Rush 2&lt;/em&gt; is still scheduled for a shuttering of its online services on July 19 and the cross-buy enabled &lt;em&gt;CounterSpy&lt;/em&gt; will be going silent on June 1.&lt;/p&gt;
+&lt;p&gt;I wonder if this will also be affecting the Vita entry &lt;em&gt;Road Trip&lt;/em&gt;. I know the website specifically states PS3, but then the list of decommissioned games has &lt;em&gt;Gran Turismo 6&lt;/em&gt; and &lt;em&gt;Killzone 3&lt;/em&gt; listed as PS4 titles. Either way, this is your warning to get some final races in.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.playstation.com/en-gb/legal/gameservers/&quot; target=&quot;_blank&quot;&gt;Decommissioned servers&lt;/a&gt; [PlayStation.com]&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498262-modnation.jpg&quot; alt=&quot;Sony is shutting down the servers for ModNation Racers and LittleBigPlanet Karting screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/sony-is-shutting-down-the-servers-for-modnation-racers-and-littlebigplanet-karting-498262.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/mngG9029X0E&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/sony-is-shutting-down-the-servers-for-modnation-racers-and-littlebigplanet-karting-498262.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498220</id>
+		<author>
+			<name>Wes Tacos</name>
+			<uri>http://www.destructoid.com/blogs/Wes+Tacos</uri>
+		</author>
+		<title>Monster Crown mixes Pokemon with Monster Rancher to bring you monsteriffic bliss</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/VKYJkJFC034/monster-crown-mixes-pokemon-with-monster-rancher-to-bring-you-monsteriffic-bliss-498220.phtml"/>
+		<published>2018-04-11T19:00:00Z</published>
+		<updated>2018-04-11T19:00:00Z</updated>
+		<content type="html">&lt;p&gt;I've never been the world's biggest fan of &lt;em&gt;Pok&amp;eacute;mon&lt;/em&gt;, but I've always had a fondness for the adorable and sometimes weird Pocket Monsters that have graced our lives for some twenty years now. But back in the PS1 days, I was absolutely fascinated by the &lt;em&gt;Monster Rancher&lt;/em&gt; series. It baffled my then ten-year-old mind (and even now at 31, it's pretty freakin' cool) that you could generate new and quirky monsters by just putting a random CD into your PlayStation and letting the magic of computers take the wheel. The fact that you could breed them was icing on the monster cake.&lt;/p&gt;
+&lt;p&gt;Well, now a game aims to combine elements of the two franchises to bring us back to the days of breeding and collecting monsters. Newly launched on Kickstarter, &lt;em&gt;Monster Crown&lt;/em&gt; looks right up my alley to scratch that itch I first felt twenty years ago.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498220-h1.jpg&quot; alt=&quot;Monster Crown mixes Pokemon with Monster Rancher to bring you monsteriffic bliss screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/monster-crown-mixes-pokemon-with-monster-rancher-to-bring-you-monsteriffic-bliss-498220.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/VKYJkJFC034&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/monster-crown-mixes-pokemon-with-monster-rancher-to-bring-you-monsteriffic-bliss-498220.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498042</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Review: Metropolis: Lux Obscura</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/c7wCNXNIrr8/review-metropolis-lux-obscura-498042.phtml"/>
+		<published>2018-04-11T18:00:00Z</published>
+		<updated>2018-04-11T18:00:00Z</updated>
+		<content type="html">&lt;p&gt;The whiskey tasted like shit, but it was sure better than the piss-soaked puddle of water I'd just dragged myself out of. As I slid the last sip of it down my throat I felt its sharpness mix with the blood in my windpipe. It numbed the pain in my ribs. Shit, if only you could wash away wounded pride so easily.&lt;/p&gt;
+&lt;p&gt;&quot;Hey, Sugar...&quot; The voice sounded angelic, but it came from the mouth of a devil in a D-cup. She slid alongside me, the ice-cold coolness in her ruby smile hiding a lifetime that had burned a hundred men, which was about to become a hundred and one.&lt;/p&gt;
+&lt;p&gt;&quot;You look like you know a good time,&quot; she breathed. I sank into the glass to prevent trouble. Not tonight. Not any night. But her thigh pressed against mine hard, so dangerous it might has well have been a razor blade. She leaned into my ear, her words seductive and loaded with false promise. &quot;I know a little game, if you wanna play with me...&quot;&lt;/p&gt;
+&lt;p&gt;Her warm hand had already slid inside my jacket like a viper, and with the experience of thousand tired-eyed nights, she already had my controller in her hands. I guess now I was gonna &lt;em&gt;have&lt;/em&gt; to play her game. How the fuck did it get this far? A better man would have got up and left; &quot;No thanks, kitten.  I'm gonna have to sit this one out.&quot;&lt;/p&gt;
+&lt;p&gt;I sat down the glass and pressed Start. Huh... A better man...&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498042-metro4.jpg&quot; alt=&quot;Review: Metropolis: Lux Obscura screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/review-metropolis-lux-obscura-498042.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/c7wCNXNIrr8&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/review-metropolis-lux-obscura-498042.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498241</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>New Destiny 2 expansion Warmind releasing May 8</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/BXSKsSi1Gik/new-destiny-2-expansion-warmind-releasing-may-8-498241.phtml"/>
+		<published>2018-04-11T17:30:00Z</published>
+		<updated>2018-04-11T17:30:00Z</updated>
+		<content type="html">&lt;p&gt;Bungie has shared an updated roadmap for &lt;em&gt;Destiny 2 &lt;/em&gt;that stretches into September (with new features like weapon randomization) and schedules the second expansion, &lt;em&gt;Warmind&lt;/em&gt;, for May 8, 2018.&lt;/p&gt;
+&lt;p&gt;The studio vaguely describes &lt;em&gt;Warmind &lt;/em&gt;as sending players &quot;to new places to meet new heroes and battle new enemies&quot; along with the promise of new loot and activities. Well, &lt;em&gt;yeah&lt;/em&gt;! Concrete details about the expansion will come out on April 24 during a &lt;a target=&quot;_blank&quot; href=&quot;https://www.twitch.tv/bungie&quot;&gt;Twitch stream&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ArCBROP.jpg&quot; border=&quot;0&quot; width=&quot;1920&quot; height=&quot;1080&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It's worth highlighting that come Season Three, the Crucible maps from &lt;em&gt;Warmind &lt;/em&gt;(and &lt;a href=&quot;https://www.destructoid.com/review-destiny-2-curse-of-osiris-472490.phtml&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Curse of Osiris&lt;/em&gt;&lt;/a&gt;) will be freely playable in playlists like Quickplay, Competitive, Trials of the Nine, and Iron Banner even if you don't own those expansions. If you do, you'll be able to play those maps in private matches.&lt;/p&gt;
+&lt;p&gt;Looking further out, Bungie says &quot;The community has been talking a lot about some of the things we're  developing for Season Four. Our goals for these features are to give you  more control over how you configure your loadouts in &lt;em&gt;Destiny 2&lt;/em&gt; and give  you more reasons to play the game over time. We also want to bring back  those exciting moments when you acquire the perfect weapon. To make this happen, updates like Weapon Randomization, Weapon Slot  Changes, Gear Collections, and Records will be delivered to all players.&quot; Speaking of, &lt;a href=&quot;https://i.imgur.com/rVGCMC1.jpg&quot; target=&quot;_blank&quot;&gt;here's a good who-gets-what breakdown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I've fallen off  &lt;em&gt;Destiny 2&lt;/em&gt; in recent months and I'm honestly not sure what it would take to get me back in and playing on even a weekly basis. Since I never bought the season pass, the start of Season Four in September will probably be my time to return -- anything sooner and I fear I'll quickly burn out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bungie.net/en/Explore/Detail/News/46735&quot; target=&quot;_blank&quot;&gt;Destiny 2 Development Roadmap &amp;ndash; 04/11/2018&lt;/a&gt; [Bungie]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498241-h1.jpg&quot; alt=&quot;New Destiny 2 expansion Warmind releasing May 8 screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/BXSKsSi1Gik&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/new-destiny-2-expansion-warmind-releasing-may-8-498241.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498226</id>
+		<author>
+			<name>CJ Andriessen</name>
+			<uri>http://www.destructoid.com/blogs/CJ+Andriessen</uri>
+		</author>
+		<title>Shovel Knight hits the mother lode with two million copies sold</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/rrjN5DLKsa0/shovel-knight-hits-the-mother-lode-with-two-million-copies-sold-498226.phtml"/>
+		<published>2018-04-11T17:15:00Z</published>
+		<updated>2018-04-11T17:15:00Z</updated>
+		<content type="html">&lt;p&gt;I'm always happy to share the news when a game I love does well in sales and doubly so when that game is as wonderful and charming as &lt;em&gt;Shovel Knight&lt;/em&gt;. As a child of the 90s, mascot platformers are my absolute favorite video game genre. While there are plenty of indie pixel platformers being made today, none of them have taken me back to my youth the same way&amp;nbsp;&lt;em&gt;Shovel Knight &lt;/em&gt;has.&lt;/p&gt;
+&lt;p&gt;Apparently, I'm not alone in this because the game has sold like gangbusters. After clearing one million copies sold 18 months after release, Yacht Club Games announced today it has surpassed two million copies sold. To celebrate, the team is taking 20% off the price of &lt;em&gt;Shovel Knight: Treasure Trove&lt;/em&gt; across nearly all platforms starting today.&lt;/p&gt;
+&lt;p&gt;As it did when the game passed its last major milestone, Yacht Club Games has given us a breakdown of sales by platform. Leading the way is Windows, making up 24.4% of the game's sales. That's followed by three Nintendo platforms: 3DS, Switch, and Wii U in that order. In fact, the Switch port of &lt;em&gt;Shovel Knight: Treasure Trove&lt;/em&gt; is the fastest selling version of the game, having moved roughly 370k units since launch.&lt;/p&gt;
+&lt;p&gt;Congrats to the team and as a fan since day one may I say I can't wait for that amiibo 3-pack I preordered last year to finally come out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yachtclubgames.com/2018/04/two-million-copies-of-shovel-knight-sold/&quot; target=&quot;_blank&quot;&gt;Two Million Copies of &lt;em&gt;S&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;a href=&quot;https://yachtclubgames.com/2018/04/two-million-copies-of-shovel-knight-sold/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;hovel&lt;/em&gt; Knight&lt;/a&gt;&lt;/em&gt;&lt;a href=&quot;https://yachtclubgames.com/2018/04/two-million-copies-of-shovel-knight-sold/&quot; target=&quot;_blank&quot;&gt; Sold!!&lt;/a&gt; [Yacht Club Games]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498226-Adams.jpg&quot; alt=&quot;Shovel Knight hits the mother lode with two million copies sold screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/rrjN5DLKsa0&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/shovel-knight-hits-the-mother-lode-with-two-million-copies-sold-498226.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498187</id>
+		<author>
+			<name>Hubert Vigilla</name>
+			<uri>http://www.destructoid.com/blogs/Hubert+Vigilla</uri>
+		</author>
+		<title>The 300 Week 14: We Need to Talk About Lynne Ramsay</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/oJdbMAHpk6M/the-300-week-14-we-need-to-talk-about-lynne-ramsay-498187.phtml"/>
+		<published>2018-04-11T17:00:00Z</published>
+		<updated>2018-04-11T17:00:00Z</updated>
+		<content type="html">&lt;p&gt;Why hello there, chum, and welcome back to &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/tag.phtml?t=The+300&amp;amp;start=0&quot;&gt;The 300&lt;/a&gt;, a recurring feature on my stupid attempt to watch 300 movies in theaters in the year 2018. I&amp;rsquo;ll be watching new releases, classics, hidden gems, and festival films to experience the wide world of cinema in all its forms. I hope there&amp;rsquo;s something here for you to enjoy and share as well.&lt;/p&gt;
+&lt;p&gt;As always, there are three rules for The 300:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The movie must be at least 40 minutes long, meeting the Academy of Motion Picture Arts and Sciences&amp;rsquo; definition of a feature film.&lt;/li&gt;
+&lt;li&gt;I must watch the movie at a movie theater, screening room, or outdoor screening venue.&lt;/li&gt;
+&lt;li&gt;While I can watch movies I&amp;rsquo;ve seen before 2018, I cannot count repeated viewings of the same film in 2018 multiple times.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lynne Ramsay&amp;rsquo;s &lt;em&gt;You Were Never Really Here&lt;/em&gt; opened last week, and I was able to catch all of the Scottish director&amp;rsquo;s feature films in consecutive days starting with &lt;em&gt;We Need to Talk About Kevin&lt;/em&gt; (&lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/the-300-week-13-nostalgia-more-like-meh-stolgia-amiright--497292.phtml&quot;&gt;The 300 Week 13&lt;/a&gt;). Seeing multiple movies by a filmmaker in close proximity calls attention to recurring motifs. I noticed a preoccupation with class and its limitations in her first two films, gold name necklaces and makeshift funerals in two movies, the intimacies of bath time and bathing, plenty of water imagery, a knack for depicting unease, and also a skill with carefully deployed needle drops. Ramsay&amp;rsquo;s such an idiosyncratic auteur with unmatched storytelling technique. I hope she gets to make movies more frequently now that there is additional attention on her work.&lt;/p&gt;
+&lt;p&gt;This week, I continue watching multiple films by the same filmmaker in close succession, this time the Argentinian director Lucrecia Martel, whose beguiling&amp;nbsp;&lt;em&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.flixist.com/nyff-review-zama-221950.phtml&quot;&gt;Zama&lt;/a&gt;&lt;/em&gt; was &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/hubert-vigilla-s-top-20-films-of-2017-486127.phtml&quot;&gt;my favorite movie I saw in 2017&lt;/a&gt;. So long as the retrospective screenings do not sell out, I should be able to see all of her feature films. Keep in mind that&amp;nbsp;&lt;em&gt;An Elephant Sitting Still&lt;/em&gt; (the four-hour Chinese art movie I wanted to see last Sunday) sold out two separate screenings, so you never can tell what fortune will bring when it comes to NYC cineastes.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m so close to triple digits now I can taste it. This could also be the cinnamon in my oatmeal or the first signs of gingivitis. My goal is to hit the big 100 before &lt;strong&gt;&lt;a href=&quot;https://www.tribecafilm.com/festival&quot; target=&quot;_blank&quot;&gt;the 2018 Tribeca Film Festival&lt;/a&gt;&lt;/strong&gt;, which starts next week. As noted before, Jesse Lab and I will be catching many films at the fest, so check back here for our coverage.&lt;/p&gt;
+&lt;p&gt;And so, onward.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498187-300-week-14.jpg&quot; alt=&quot;The 300 Week 14: We Need to Talk About Lynne Ramsay screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/the-300-week-14-we-need-to-talk-about-lynne-ramsay-498187.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/oJdbMAHpk6M&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/the-300-week-14-we-need-to-talk-about-lynne-ramsay-498187.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498215</id>
+		<author>
+			<name>Peter Glagowski</name>
+			<uri>http://www.destructoid.com/blogs/Peter+Glagowski</uri>
+		</author>
+		<title>Ghost Recon Wildlands' Splinter Cell DLC is a tribute to the last stealth hero</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/cc_8PL6CVkw/ghost-recon-wildlands-splinter-cell-dlc-is-a-tribute-to-the-last-stealth-hero-498215.phtml"/>
+		<published>2018-04-11T16:30:00Z</published>
+		<updated>2018-04-11T16:30:00Z</updated>
+		<content type="html">&lt;p&gt;The stealth action genre used to be fertile grounds. You didn&amp;rsquo;t have far to look for an experience catering to that very specific niche. &lt;i&gt;Syphon Filter&lt;/i&gt;, &lt;i&gt;Tenchu&lt;/i&gt;, &lt;i&gt;Thief&lt;/i&gt;, &lt;i&gt;Metal Gear Solid&lt;/i&gt;, &lt;i&gt;Splinter Cell&lt;/i&gt;, &lt;i&gt;Hitman&lt;/i&gt;; these were all games that had very similar premises, but each offered something entirely unique. While a few of these titans were leaders of their specific niche, each game had dedicated fans that were eager to grab hold of something new.&lt;/p&gt;
+&lt;p&gt;As the years went on, basically all of these franchises have died off. &lt;i&gt;Hitman&lt;/i&gt; did have a return to form with the episodic 2016 entry, but even &lt;i&gt;Metal Gear Solid&lt;/i&gt; is now basically dead and we haven&amp;rsquo;t heard a peep about Ubisoft&amp;rsquo;s tech-savy &lt;i&gt;Splinter Cell&lt;/i&gt; since 2013&amp;rsquo;s &lt;i&gt;Blacklist&lt;/i&gt;&amp;hellip;that is, until now.&lt;/p&gt;
+&lt;p&gt;Out of the blue, Ubisoft has released some crossover DLC for its smash hit &lt;i&gt;Ghost Recon Wildlands&lt;/i&gt;. While this seems a bit random at first, the two games do feature a similar emphasis on tactics and execution. Falling under the &amp;ldquo;Tom Clancy&amp;rdquo; brand, both franchises have striven for realism and offered deliberate experiences for those looking for a more military-centric action game. Upon closer inspection, these two aren&amp;rsquo;t so far removed.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498215-WildlandsSC.jpg&quot; alt=&quot;Ghost Recon Wildlands' Splinter Cell DLC is a tribute to the last stealth hero screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/ghost-recon-wildlands-splinter-cell-dlc-is-a-tribute-to-the-last-stealth-hero-498215.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/cc_8PL6CVkw&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/ghost-recon-wildlands-splinter-cell-dlc-is-a-tribute-to-the-last-stealth-hero-498215.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498207</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>Steam Spy can no longer operate due to a recent change with Steam</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/YUkDd0m3TuY/steam-spy-can-no-longer-operate-due-to-a-recent-change-with-steam-498207.phtml"/>
+		<published>2018-04-11T16:00:00Z</published>
+		<updated>2018-04-11T16:00:00Z</updated>
+		<content type="html">&lt;p&gt;Steam Spy has been a &lt;a href=&quot;https://www.destructoid.com/a-reported-7-672-games-were-released-on-steam-last-year-481982.phtml&quot; target=&quot;_blank&quot;&gt;tremendously helpful tool&lt;/a&gt; over the years, offering estimates on how individual games are selling and how many people are actively playing them, among other insights. That changes this week in light of a &lt;a target=&quot;_blank&quot; href=&quot;https://steamcommunity.com/games/593110/announcements/detail/1667896941884942467&quot;&gt;Steam client update&lt;/a&gt; centered around new user privacy settings.&lt;/p&gt;
+&lt;p&gt;The Steam update &quot;gives you more control over the privacy of your Steam account,&quot; with newfound options to keep your information private including your profile, friends list, comments, the games you own, what you're actively playing, and your Steam inventory, among other things.&lt;/p&gt;
+&lt;p&gt;As it now stands, users' libraries are hidden by default. This has huge repercussions for &lt;a href=&quot;https://steamspy.com/&quot; target=&quot;_blank&quot;&gt;Steam Spy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Valve just made a change to their privacy settings, making games owned by Steam users hidden by default. &lt;br&gt;&lt;br&gt;Steam Spy relied on this information being visible by default and won&amp;#39;t be able to operate anymore.&lt;a href=&quot;https://t.co/0ejZgRQ6Kd&quot;&gt;https://t.co/0ejZgRQ6Kd&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steam Spy (@Steam_Spy) &lt;a href=&quot;https://twitter.com/Steam_Spy/status/983879694658437120?ref_src=twsrc%5Etfw&quot;&gt;April 11, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;To reiterate - it&amp;#39;s not because of the new privacy settings. It&amp;#39;s because Steam just made everyone&amp;#39;s gaming library hidden by default (this wasn&amp;#39;t in their blog post).&lt;/p&gt;&amp;mdash; Steam Spy (@Steam_Spy) &lt;a href=&quot;https://twitter.com/Steam_Spy/status/983899259291557888?ref_src=twsrc%5Etfw&quot;&gt;April 11, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;In short, it can't continue as is. Players and developers who relied on the tool are out of luck.&lt;/p&gt;
+&lt;p&gt;Steam Spy will be archived, according to creator Sergey Galyonkin. He also &lt;a href=&quot;https://www.eurogamer.net/articles/2018-04-11-why-steam-spy-has-to-close-from-the-creator-himself&quot; target=&quot;_blank&quot;&gt;told Eurogamer&lt;/a&gt; that while he could potentially use &quot;different methods of gathering information&quot; for the service, &quot;the margin of error would be so high that I don't think they make a lot of sense. [...] It's different for me and for other people. Myself, I usually look at  trends. Other people, I see use Steam Spy quite differently, they search  particular games. The margin of error for particular games would be  kind of bad.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;I knew it was going to happen at some point,&quot; Galyonkin said of Steam Spy's shutdown.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Steam_Spy/status/983879694658437120&quot; target=&quot;_blank&quot;&gt;Steam Spy&lt;/a&gt; [Twitter]&lt;br /&gt;&lt;a href=&quot;https://steamcommunity.com/games/593110/announcements/detail/1667896941884942467&quot; target=&quot;_blank&quot;&gt;New Profile Privacy Settings&lt;/a&gt; [Steam]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498207-h1.jpg&quot; alt=&quot;Steam Spy can no longer operate due to a recent change with Steam screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/YUkDd0m3TuY&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/steam-spy-can-no-longer-operate-due-to-a-recent-change-with-steam-498207.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498204</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>New PS4 patch brings HDR and performance optimizations to The Witcher 3</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/9t27u_qdeZ0/new-ps4-patch-brings-hdr-and-performance-optimizations-to-the-witcher-3-498204.phtml"/>
+		<published>2018-04-11T15:30:00Z</published>
+		<updated>2018-04-11T15:30:00Z</updated>
+		<content type="html">&lt;p&gt;There were some &lt;a href=&quot;https://www.destructoid.com/cd-projekt-red-says-their-witcher-3-ps4-pro-hdr-patch-is-not-dead-bugs-still-need-to-be-fixed-496249.phtml&quot; target=&quot;_blank&quot;&gt;bumps in the road&lt;/a&gt; but the HDR patch for &lt;em&gt;The Witcher 3 &lt;/em&gt;on PlayStation 4 and PlayStation 4 Pro is now live. And while the main feature is high dynamic range, that's not all:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Various performance optimizations&lt;/li&gt;
+&lt;li&gt;Stability improvements&lt;/li&gt;
+&lt;li&gt;Localization bugfixing&lt;/li&gt;
+&lt;li&gt;Minor visual improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt;I don't have a television with HDR support (maybe at the end of the year?), but if I did, I'd happily take this patch as an excuse to load up &lt;em&gt;The Witcher 3&lt;/em&gt;. Nearly three years later, the game is still giving.&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://thewitcher.com/en/news/view/18911/&quot;&gt;The Witcher 3 patch for PS4 and PS4 Pro is out!&lt;/a&gt; [The Witcher]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498204-h1.jpg&quot; alt=&quot;New PS4 patch brings HDR and performance optimizations to The Witcher 3 screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/9t27u_qdeZ0&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/new-ps4-patch-brings-hdr-and-performance-optimizations-to-the-witcher-3-498204.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498198</id>
+		<author>
+			<name>Hypno </name>
+			<uri>http://www.destructoid.com/blogs/Hypno+</uri>
+		</author>
+		<title>Bloggers Wanted: Villains that did nothing wrong</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/TItsD8WaPSk/bloggers-wanted-villains-that-did-nothing-wrong-498198.phtml"/>
+		<published>2018-04-11T15:00:00Z</published>
+		<updated>2018-04-11T15:00:00Z</updated>
+		<content type="html">&lt;p&gt;Villains in all media, not just video games, can end up being a dime a dozen. Far too often, a villain's motives boil down to &quot;I am a bad, and so I do bad things. Fear me.&quot; While this format has worked for countless stories, at this point in my life (the ripe old age of 20) I&amp;rsquo;ve become jaded and grumpy, finding myself rolling my eyes when I see yet another antagonist wreaking havoc with no background or reasoning presented as to why they&amp;rsquo;re being such a butthole.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s far more interesting to me is when a villain&amp;rsquo;s motives or actions come across as justified, perhaps leaving you rooting for them to defeat the protagonist [insert Elder God Tier villain meme here.]&lt;/p&gt;
+&lt;p&gt;My favorite example of this would be Meruem from the Chimera Ant arc of &lt;em&gt;Hunter x Hunter&lt;/em&gt;. While he doesn&amp;rsquo;t necessarily fit the exact mold I laid out above, he&amp;rsquo;s easily one of the most dynamic and curious villains I&amp;rsquo;ve ever come across. For the sake of not spoiling what is perhaps one of the most exciting, action-packed, and tear-inducing arcs in anime history, I won&amp;rsquo;t delve into the details of what makes Meruem so great. Instead I encourage anyone who hasn&amp;rsquo;t seen &lt;em&gt;Hunter x Hunter&lt;/em&gt; to set aside some time and plow through the series. Really, it&amp;rsquo;s that good.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;ul/user/3/312729-498198-69cfeef55d5b95885b426740680b33f3jpg-noscale.jpg&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498198-312729-498198-yeehawtorchjpg-noscale.jpg&quot; alt=&quot;Bloggers Wanted: Villains that did nothing wrong screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/bloggers-wanted-villains-that-did-nothing-wrong-498198.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/TItsD8WaPSk&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/bloggers-wanted-villains-that-did-nothing-wrong-498198.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498170</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>GTA Online's Contraband Week brings discounts, races and double dollars</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/6yTwKgcjrUo/gta-online-s-contraband-week-brings-discounts-races-and-double-dollars-498170.phtml"/>
+		<published>2018-04-11T14:30:00Z</published>
+		<updated>2018-04-11T14:30:00Z</updated>
+		<content type="html">&lt;p&gt;Shady gun-running types will want to get their dodgy dealings underway, as Rockstar have begun a bonus-popping Contraband Week for the insanely popular &lt;em&gt;GTA Online.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;During the promotion's run, bunker-made materials will bag players double the amount of GTA dollars and RP through Sell Missions. Not only that, but the shifty merchandise will also be produced in half the amount of time. For those of you yet to begin your underground empire, now is a good time to start, as the game's various bunkers are up to 50% off in price.&lt;br /&gt;&lt;br /&gt;The double-dollar bonus has also been applied to all in-game Target Assault Races. Speaking of racing, a new Premium Race has arrived in the form of The Loop, while players who want to test themselves can burn into new Time Trial on the Great Ocean Highway.&lt;br /&gt;&lt;br /&gt;As well as all of the above, there is a discount on a range of gear, vehicles and weaponry. Contraband week is live now in&lt;em&gt; GTA Online&lt;/em&gt; and is expected to finish around April 16.&amp;nbsp;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498170-contra.jpg&quot; alt=&quot;GTA Online's Contraband Week brings discounts, races and double dollars screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/6yTwKgcjrUo&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/gta-online-s-contraband-week-brings-discounts-races-and-double-dollars-498170.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498202</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>Stardew Valley multiplayer should be ready in a month or so</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/CraHe7XGWVw/stardew-valley-multiplayer-should-be-ready-in-a-month-or-so-498202.phtml"/>
+		<published>2018-04-11T14:00:00Z</published>
+		<updated>2018-04-11T14:00:00Z</updated>
+		<content type="html">&lt;p&gt;At the risk of setting myself up for slight disappointment when the timing doesn't work out quite as expected, &lt;em&gt;Stardew Valley&lt;/em&gt;'s long-awaited &lt;a href=&quot;https://www.destructoid.com/stardew-valley-s-multiplayer-update-will-feature-local-and-online-play-482608.phtml&quot; target=&quot;_blank&quot;&gt;multiplayer update&lt;/a&gt; could be out on PC in around a month.&lt;/p&gt;
+&lt;p&gt;According to game creator Eric Barone, the team is &quot;still making good progress on fixing bugs&quot; and &quot;if all goes well it should be ready in about a month.&quot; Four-person multiplayer will first arrive in &lt;em&gt;Stardew Valley &lt;/em&gt;on PC/Mac/Linux, followed by Nintendo Switch and finally Xbox One and PlayStation 4.&lt;/p&gt;
+&lt;p&gt;We're getting there, friends. I don't care how long this takes -- I'm just happy it's coming.&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/ConcernedApe/status/983762007466770433&quot;&gt;ConcernedApe&lt;/a&gt; [Twitter]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498202-h1.jpg&quot; alt=&quot;Stardew Valley multiplayer should be ready in a month or so screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/CraHe7XGWVw&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/stardew-valley-multiplayer-should-be-ready-in-a-month-or-so-498202.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498172</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Check out this round-up of Destructoid's time at PAX East</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/FfDL2X_Q6Zo/check-out-this-round-up-of-destructoid-s-time-at-pax-east-498172.phtml"/>
+		<published>2018-04-11T13:30:00Z</published>
+		<updated>2018-04-11T13:30:00Z</updated>
+		<content type="html">&lt;p&gt;This weekend saw video game industry event PAX East take place in Boston, MA. For four days gamers and the media descended upon the developers and publishers in attendance to get their hands on some of the latest titles and hidden gems winging their way to a platform near you soon.&lt;br /&gt;&lt;br /&gt;Our own writers were also at the event this weekend, where they got to try out some of the weird and wonderful unsung games currently in development, whilst getting the opportunity to have a bit of a natter with the men and women who work hard to make a name for themselves within a hugely crowded market.&lt;br /&gt;&lt;br /&gt;Let's take a look at some of cool, weird and intriguing games they got to check out, as well as their impressions on this new wave of indie goodness.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498172-pax.jpg&quot; alt=&quot;Check out this round-up of Destructoid's time at PAX East screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/check-out-this-round-up-of-destructoid-s-time-at-pax-east-498172.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/FfDL2X_Q6Zo&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/check-out-this-round-up-of-destructoid-s-time-at-pax-east-498172.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498162</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>What's the one original Xbox game you want to see on Xbox One?</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/JPRsVXJ0T7k/what-s-the-one-original-xbox-game-you-want-to-see-on-xbox-one--498162.phtml"/>
+		<published>2018-04-11T13:00:00Z</published>
+		<updated>2018-04-11T13:00:00Z</updated>
+		<content type="html">&lt;p&gt;Well, it happened -- &lt;em&gt;Morrowind &lt;/em&gt;is coming to the Xbox One &lt;a href=&quot;https://www.destructoid.com/-update-morrowind-and-four-other-original-xbox-titles-seem-set-to-hit-xbox-one-backward-compatibility-498097.phtml&quot; target=&quot;_blank&quot;&gt;by way of backward compatibility&lt;/a&gt;. No longer do I need to rely on my fished-out original Xbox to play the console version of the game (as I often do along with &lt;em&gt;Jet Set Radio Future&lt;/em&gt;), as I can just boot it up on a modern platform.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Morrowind&lt;/em&gt; was a masterpiece that got me through a lot of tough times, and although it's much more dated than a lot of you remember, the level of freedom it provides is unmatched in modern Bethesda games. I could RP to my heart's content in &lt;em&gt;Morrowind&lt;/em&gt;, and for hundreds of hours, I did.&lt;/p&gt;
+&lt;p&gt;So I already got my perfect original Xbox-on-Xbox-One release. Do you have a similar favorite you'd like to share? Even though it's cheating I'll also offer out &lt;em&gt;JSRF&lt;/em&gt;, which is a pain to play as it was only released on the original Xbox -- though granted it had two printings one of which was a dual pack with &lt;em&gt;Sega GT 2002&lt;/em&gt;.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498162-Bal.jpg&quot; alt=&quot;What's the one original Xbox game you want to see on Xbox One? screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/JPRsVXJ0T7k&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/what-s-the-one-original-xbox-game-you-want-to-see-on-xbox-one--498162.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498168</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Nicki Minaj rocking hair buns for upcoming track 'Chun-Li'</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/N9lvpEPMD7A/nicki-minaj-rocking-hair-buns-for-upcoming-track-chun-li--498168.phtml"/>
+		<published>2018-04-11T12:30:00Z</published>
+		<updated>2018-04-11T12:30:00Z</updated>
+		<content type="html">&lt;p&gt;Bajillion dollar-making music star Nicki Minaj is set to release a new single (Do you still call them singles?) which references one of gaming's most iconic and strongest women of all time, &lt;em&gt;Street Fighter's&lt;/em&gt; irrepressible warrior, Chun-Li.&lt;br /&gt;&lt;br /&gt;In a posting on the Hip-Hop princess' official twitter, Minaj revealed the title of the track along with a date: Thursday at 10:00PT/13:00ET. Accompanying the slight message is a great photo of the award-winning artist busting out Chun-Li's trademark hair buns.&lt;br /&gt;&lt;br /&gt;Here's hoping that the track is all about Chun-Li's continued dominance as a top-tier character in &lt;em&gt;Third Strike,&lt;/em&gt; as well as including sly commentary on the fact you can push forward and tap MP to destroy people with blockstun/throw tics in &lt;em&gt;Super Turbo&lt;/em&gt;.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498168-nicki.jpg&quot; alt=&quot;Nicki Minaj rocking hair buns for upcoming track 'Chun-Li' screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/nicki-minaj-rocking-hair-buns-for-upcoming-track-chun-li--498168.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/N9lvpEPMD7A&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/nicki-minaj-rocking-hair-buns-for-upcoming-track-chun-li--498168.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498065</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>Early Access Review: Radical Heights</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/lula5fBQedI/early-access-review-radical-heights-498065.phtml"/>
+		<published>2018-04-11T12:00:00Z</published>
+		<updated>2018-04-11T12:00:00Z</updated>
+		<content type="html">&lt;p&gt;I had the opportunity to visit Boss Key Productions' studio in Raleigh, North Carolina, and I saw a lot of promise in &lt;em&gt;LawBreakers.&lt;/em&gt; Cliff Blesziski's still fledgling studio has a lot of power behind it, so much so that I was wowed by the raw talent of the art department in particular, among a mix of up and coming and seasoned developers.&lt;/p&gt;
+&lt;p&gt;But &lt;em&gt;LawBreakers&lt;/em&gt;&amp;nbsp;just didn't make an impact on the industry. Maybe it was the marketing, the pricepoint, the over-saturation of hero shooters, the timing, or the spread across three platforms for a brand new IP, but either way it's basically a done deal now.&lt;/p&gt;
+&lt;p&gt;Looking forward Cliff and his team are anxious to step into yet another popular genre right before the floodgates open -- enter &lt;em&gt;Radical Heights&lt;/em&gt;, the '80s themed battle royale.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498065-RH1.jpg&quot; alt=&quot;Early Access Review: Radical Heights screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/early-access-review-radical-heights-498065.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/lula5fBQedI&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/early-access-review-radical-heights-498065.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498169</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Check out the patch notes for Nintendo's ARMS 5.3 update here</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/ZyHXsHnL8GA/check-out-the-patch-notes-for-nintendo-s-arms-5-3-update-here-498169.phtml"/>
+		<published>2018-04-11T11:30:00Z</published>
+		<updated>2018-04-11T11:30:00Z</updated>
+		<content type="html">&lt;p&gt;Nintendo has dropped a new update on its arena-based fighting title ARMS. The new patch is already live and updates the cartoony brawler to Version 5.3.&lt;br /&gt;&lt;br /&gt;The main purpose of the new update is to tweak the game's roster for rebalancing purposes, but there have also been some dashboard updates and a selection of new artwork available in the gallery. Korean language support has also been integrated.&lt;br /&gt;&lt;br /&gt;Despite Nintendo's comments that made it sound like they were &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/arms-will-no-longer-receive-content-updates-479120.phtml&quot;&gt;all but abandoning the title.&lt;/a&gt; It's good to see that they game is still being maintained, so fans can continue to enjoy its trademark brand of madcap mayhem.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498169-clow.jpg&quot; alt=&quot;Check out the patch notes for Nintendo's ARMS 5.3 update here screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/check-out-the-patch-notes-for-nintendo-s-arms-5-3-update-here-498169.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/ZyHXsHnL8GA&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/check-out-the-patch-notes-for-nintendo-s-arms-5-3-update-here-498169.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498139</id>
+		<author>
+			<name>CJ Andriessen</name>
+			<uri>http://www.destructoid.com/blogs/CJ+Andriessen</uri>
+		</author>
+		<title>Review: Gal Gun 2</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/Co3nl6fzDrI/review-gal-gun-2-498139.phtml"/>
+		<published>2018-04-11T11:00:00Z</published>
+		<updated>2018-04-11T11:00:00Z</updated>
+		<content type="html">&lt;p&gt;It happened several weeks ago on its Twitter feed&lt;br /&gt;Did PQube Games pose a question for its followers to read.&amp;nbsp;&lt;br /&gt;With &lt;em&gt;Gal*Gun 2&lt;/em&gt; a month away the publisher wanted to know&amp;nbsp;&lt;br /&gt;If you&amp;rsquo;re a fan who&amp;rsquo;s brave enough to play the game on the go.&amp;nbsp;&lt;br /&gt;Would you play it on a plane?&amp;nbsp;&lt;br /&gt;Would you play it on a train?&amp;nbsp;&lt;br /&gt;Would you play it with the volume up in a crowd like you got no shame?&amp;nbsp;&lt;br /&gt;Happy to say I&amp;rsquo;m the type of guy who doesn&amp;rsquo;t give a shit.&amp;nbsp;&lt;br /&gt;No matter what kind of game it is I&amp;rsquo;m playing it on my Switch.&amp;nbsp;&lt;br /&gt;So I did play it on a plane,&amp;nbsp;&lt;br /&gt;And I did play it on a train,&amp;nbsp;&lt;br /&gt;And if I could then yes I would play it in Spain with David Wain.&amp;nbsp;&lt;br /&gt;For all its pert, there&amp;rsquo;s something you should know about this game,&amp;nbsp;&lt;br /&gt;Despite the naughty bits it shows, &lt;em&gt;Gal*Gun 2&lt;/em&gt; is rather tame.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498139-GalGunTop.jpg&quot; alt=&quot;Review: Gal Gun 2 screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/review-gal-gun-2-498139.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/Co3nl6fzDrI&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/review-gal-gun-2-498139.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498166</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>Grim cinematic trailer for Overkill's The Walking Dead introduces Maya</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/F7BWexuMr98/grim-cinematic-trailer-for-overkill-s-the-walking-dead-introduces-maya-498166.phtml"/>
+		<published>2018-04-11T10:30:00Z</published>
+		<updated>2018-04-11T10:30:00Z</updated>
+		<content type="html">&lt;p&gt;Strabreeze have released a new trailer for their upcoming co-op shooter based on hugely-popular zombie franchise &lt;em&gt;The Walking Dead&lt;/em&gt;. The trailer introduces us to one of the game's protagonists, Maya.&lt;br /&gt;&lt;br /&gt;In the excellent two-minute spot Maya, a young hospital worker attempts to come to terms with the aftermath of a massacre which begins after a wounded man is rushed onto her ward. The short preview does a great job of conveying mood and emotion, as well as streamlining her life-changing day into just a few short minutes.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Overkill's The Walking Dead&lt;/em&gt; is a first-person shooter which features four player co-op. Each of the game's protagonists will be have exclusive skills, roles and abilities, as well as their own personalities and story arcs. The game is hoping to focus on players utilising teamwork and adaptive improvisation to survive the living nightmare.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Overkill's The Walking Dead&lt;/em&gt; launches on PS4, PC and Xbox One this Fall.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498166-maya.jpg&quot; alt=&quot;Grim cinematic trailer for Overkill's The Walking Dead introduces Maya screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/grim-cinematic-trailer-for-overkill-s-the-walking-dead-introduces-maya-498166.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/F7BWexuMr98&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/grim-cinematic-trailer-for-overkill-s-the-walking-dead-introduces-maya-498166.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498160</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>The remake of the original Disgaea is due in July on PS4 and Switch</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/3GuMsrR5RbY/the-remake-of-the-original-disgaea-is-due-in-july-on-ps4-and-switch-498160.phtml"/>
+		<published>2018-04-11T10:00:00Z</published>
+		<updated>2018-04-11T10:00:00Z</updated>
+		<content type="html">&lt;p&gt;&lt;em&gt;Disgaea Refine&lt;/em&gt;, the remake of the original and still-beloved &lt;em&gt;Disgaea&lt;/em&gt;, is coming soon in Japan. By way of Dengeki PlayStation we now know that it's arriving on July 26 in the region on both PS4 and Switch. It'll also sport a limited edition SKU with a soundtrack, special box, and a calendar.&lt;/p&gt;
+&lt;p&gt;I know that despite how many &lt;i&gt;Disgaea&lt;/i&gt;&amp;nbsp;iterations that NIS pumps out, folks still find themselves going back to the original. Although I like just about every entry in its own special way they've been working at re-creating the magic of the original for a while -- and now we're getting a straight remake that'll do just that.&lt;/p&gt;
+&lt;p&gt;It's hard to settle on a platform, especially since Sony has been its home for so long, but recently Nintendo has been giving them a run for their money.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dengekionline.com/dps/&quot; target=&quot;_blank&quot;&gt;Disgaea&lt;/a&gt; [Dengeki PlayStation via &lt;a href=&quot;https://gematsu.com/2018/04/disgaea-remake-launches-for-ps4-switch-on-july-26-in-japan&quot; target=&quot;_blank&quot;&gt;Gematsu&lt;/a&gt;]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498160-Ds.jpg&quot; alt=&quot;The remake of the original Disgaea is due in July on PS4 and Switch screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/3GuMsrR5RbY&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/the-remake-of-the-original-disgaea-is-due-in-july-on-ps4-and-switch-498160.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498165</id>
+		<author>
+			<name>Chris Moyse</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Moyse</uri>
+		</author>
+		<title>NIS America President apologises to Sony for recent remarks in SNK Heroines: Tag Team Frenzy interview</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/pgpPpW4HXlk/nis-america-president-apologises-to-sony-for-recent-remarks-in-snk-heroines-tag-team-frenzy-interview-498165.phtml"/>
+		<published>2018-04-11T09:00:00Z</published>
+		<updated>2018-04-11T09:00:00Z</updated>
+		<content type="html">&lt;p&gt;Takuro Yamashita, President of NIS America, has issued a statement apologising for his recent remarks in an article with MCV, in which he believes he misrepresented the origins of upcoming fighter &lt;em&gt;SNK Heroines: Tag Team Frenzy.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;In the original article, Yamashita spoke about the original plans to make the all-gal fighter a PS4 exclusive, before switching focus to Nintendo Switch for the Western market. In a follow up question, Yamashita commented that Sony &quot;doesn't care about small publishers like us.&quot; Below is an excerpt from the interview, which can be read in full in &lt;a href=&quot;https://issuu.com/newbayeurope/docs/mcv_april_2018&quot; target=&quot;_blank&quot;&gt;MCV, page 38&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;pw-hidden-cp&quot;&gt;
+&lt;p&gt;&lt;strong&gt;MCV:&lt;/strong&gt; You are working much closer with Nintendo recently. How did that come about and what benefits have you seen as a company?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yamashita:&lt;/strong&gt; &amp;ldquo;I&amp;rsquo;ll give you a scoop! Originally we signed with SNK on &lt;em&gt;SNK Heroines&lt;/em&gt; just on the PlayStation 4 format. Then last year an opportunity  happened at Gamescom, two third-parties happened to meet all together  outside Nintendo&amp;rsquo;s meeting room. The first meeting was between NIS  America and Nintendo of Europe, and the next meeting was between SNK and  Nintendo of Europe. Of course, these two were separate meetings. Then  after their meeting, influential people from SNK came to our booth and  said: &amp;lsquo;Hey, Mr. Yamashita, is it possible to cancel our contract on  PlayStation 4? Nintendo wants to work on this title on an exclusive  basis!&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;So these third parties come together and the team at NIS and SNK  decided to go with Nintendo for the western market. Physical copy-wise,  it&amp;rsquo;s going to be a Switch exclusive. PlayStation 4-wise, it&amp;rsquo;s going to  be just digital. That&amp;rsquo;s the deal. We will not release a packaged version  for the PlayStation 4 format. Then Nintendo will act as a distributor  for this game. Then they promised to buy a lot of units.&quot;&lt;/p&gt;
+&lt;div class=&quot;pw-hidden-cp&quot;&gt;
+&lt;p&gt;&lt;strong&gt;MCV: &lt;/strong&gt;What is your strategy for Europe moving forwards?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yamashita:&lt;/strong&gt; &amp;ldquo;For the JRPG market, the biggest country is France, so most of our key titles, such as &lt;em&gt;Ys VIII&lt;/em&gt; and the &lt;em&gt;Disgaea&lt;/em&gt; series, we localize the game in French to get in a much better position  in Europe, because the French market is the biggest for JRPG titles.  We&amp;rsquo;re starting to do more on Nintendo Switch. &lt;em&gt;SNK Heroines&lt;/em&gt; is  not the only one. We&amp;rsquo;ve teamed up with Nintendo Europe for our other  Switch titles. They support is in a good way. Compared to that, Sony is  not friendly with small publishers likes us. They just care about big  Japanese companies.&lt;/p&gt;
+&lt;p&gt;Also, if we simultaneously release a Switch version  and a PlayStation 4 version of the same title, currently the sales trend  is two to one. That means the Switch version sells twice as much as the  PlayStation 4 version. Physically and digitally. A lot of PlayStation 4  titles are coming up, so the market is very competitive. Compared to  that, the Switch market still has lots of room for publishers to make  money.&amp;rdquo;&lt;br /&gt;&lt;br /&gt;Since then, Yamashita has released a new statement apologising for comments made during the interview. The apology seems more specifically aimed at his take on how the NIS/Nintendo deal came about, rather than the slightly more obviously incendiary statement about Sony's lack of love for the little guys. The apology reads as follows:&lt;/p&gt;
+&lt;div class=&quot;pw-hidden-cp&quot;&gt;
+&lt;p&gt;&quot;I must extend my most heartfelt apology to  SNK and Sony Interactive Entertainment. The truth is that the Nintendo  Switch exclusive plan was originally decided by NIS America, and only  later among discussions with influential SNK people did we decide the  best option moving forward would be to have as much exposure as  possible. This is why that in the end, we are bringing the PS4 version  of &lt;em&gt;SNK Heroines&lt;/em&gt; to the market, and even supported this version at the NISA Press Event and in the press meetings in February and March.&lt;/p&gt;
+&lt;p&gt;In discussing matters with MCV, I thought that some insider  information would make them interested in the overall conversation, and  such lip service did not stand on the side of truth. Once again, I apologize to SNK and Sony if it made them seem negative  towards the PS4 platform in any way, and stress that the original goal  of a 'Nintendo Switch exclusive' version of &lt;em&gt;SNK Heroines&lt;/em&gt; came from NISA.&quot; &lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;SNK Heroines: Tag Team Frenzy&lt;/em&gt; will release on PS4 and Nintendo Switch September 7.&lt;/p&gt;
+&lt;/div&gt;
+&lt;span&gt;&lt;/span&gt;&lt;/div&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498165-snk.jpg&quot; alt=&quot;NIS America President apologises to Sony for recent remarks in SNK Heroines: Tag Team Frenzy interview screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/pgpPpW4HXlk&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/nis-america-president-apologises-to-sony-for-recent-remarks-in-snk-heroines-tag-team-frenzy-interview-498165.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498161</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>It sure looks like Ikaruga is coming to Switch</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/MmaLn7EH-3o/it-sure-looks-like-ikaruga-is-coming-to-switch-498161.phtml"/>
+		<published>2018-04-11T08:00:00Z</published>
+		<updated>2018-04-11T08:00:00Z</updated>
+		<content type="html">&lt;p&gt;Whenever I see Treasure still being talked about, my eyes light up.&lt;/p&gt;
+&lt;p&gt;Most of their classics are still relevant and played today, but the more platforms we can play them on, the merrier. Based on this complete tease of a tweet, we might be getting that chance with&lt;em&gt; Ikaruga&lt;/em&gt; on Switch. Officially tweeted out by Treasure, it sure looks like the company is using a Joy-Con grip and a Pro Controller to play&lt;em&gt; Ikaruga&lt;/em&gt; on the platform. They're currently trying to get the vertical bit right, and presumably once they figure that out, they could announce the port in the future.&lt;/p&gt;
+&lt;p&gt;Naturally this could open up the door to plenty of other Treasure games on modern platforms in the future, like &lt;em&gt;Bangai-O&lt;/em&gt; and possibly the pair of Sin &amp;amp; Punishment games. As far as we know &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/ratings-board-points-to-ikaruga-on-playstation-4-496090.phtml&quot;&gt;&lt;i&gt;Ikaruga&lt;/i&gt;&amp;nbsp;is also coming to PS4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/TreasureCoLtd/status/983702861950275584/photo/1&quot;&gt;Treasure&lt;/a&gt; [Twitter]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498161-A2.jpg&quot; alt=&quot;It sure looks like Ikaruga is coming to Switch screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/MmaLn7EH-3o&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/it-sure-looks-like-ikaruga-is-coming-to-switch-498161.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498041</id>
+		<author>
+			<name>Chris Carter</name>
+			<uri>http://www.destructoid.com/blogs/Chris+Carter</uri>
+		</author>
+		<title>(Update) Capcom confirms our suspicions: The Mega Man X Legacy Collection will be two packs</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/SyUfrsihWG0/-update-capcom-confirms-our-suspicions-the-mega-man-x-legacy-collection-will-be-two-packs-498041.phtml"/>
+		<published>2018-04-11T03:15:00Z</published>
+		<updated>2018-04-11T03:15:00Z</updated>
+		<content type="html">&lt;p&gt;[&lt;strong&gt;Update:&lt;/strong&gt; The collections will also be arriving on July 24 in the west. They're $19.99 each digitally, or $39.99 for both packs in retail form. &lt;b&gt;Switch owners&lt;/b&gt;&amp;nbsp;can't get both physically -- if you buy the double pack you'll nab the first pack on a cart and the second by way of a download voucher.]&lt;/p&gt;
+&lt;p&gt;The ratings board rumors have been confirmed: the &lt;em&gt;Mega Man X Legacy Collection&lt;/em&gt; will actually be &lt;strong&gt;two &lt;/strong&gt;collections, as officially stated by the below video from Capcom.&lt;/p&gt;
+&lt;p&gt;The first pack will contain &lt;em&gt;X1-X4&lt;/em&gt;, the titles most &lt;em&gt;X &lt;/em&gt;fans consider to be the bread and butter of the series, and the second will house &lt;em&gt;X5-X8&lt;/em&gt;, the collective black sheep of the franchise. As usual art gallery extras are included, and the platforms are re-confirmed as PC, PS4, Xbox One, and Switch for a July 26 release date in Japan.&lt;/p&gt;
+&lt;p&gt;At the end of the video Capcom also teases a wacky new mode -- the &quot;X Challenge,&quot; which has two bosses from different games on-screen simultaneously.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498041-AAFA12.jpg&quot; alt=&quot;(Update) Capcom confirms our suspicions: The Mega Man X Legacy Collection will be two packs screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/-update-capcom-confirms-our-suspicions-the-mega-man-x-legacy-collection-will-be-two-packs-498041.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/SyUfrsihWG0&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/-update-capcom-confirms-our-suspicions-the-mega-man-x-legacy-collection-will-be-two-packs-498041.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498136</id>
+		<author>
+			<name>Jonathan Holmes</name>
+			<uri>http://www.destructoid.com/blogs/Jonathan+Holmes</uri>
+		</author>
+		<title>Never before seen game secrets revealed </title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/YCdP6S7Oh0M/never-before-seen-game-secrets-revealed-498136.phtml"/>
+		<published>2018-04-10T21:00:00Z</published>
+		<updated>2018-04-10T21:00:00Z</updated>
+		<content type="html">&lt;p&gt;&lt;iframe width=&quot;620&quot; height=&quot;376&quot; src=&quot;https://www.youtube.com/embed/RU1wJ7NHBkY&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;These days, there are just two kinds of secrets in video games: the ones that you can uncover in a few minutes using Google, and the kind that remain totally anonymous. The internet has erased many of the world's mysteries, and the &quot;unconfirmed rumor of [blank] thing being unlockable in a game&quot; is only one of them.&lt;/p&gt;
+&lt;p&gt;That said, there are still &lt;a href=&quot;https://www.destructoid.com/rumor-two-iconic-leading-men-are-hidden-characters-in-runner3-497723.phtml&quot; target=&quot;_blank&quot;&gt;plenty of secrets in video games that have yet to be found&lt;/a&gt;. The problem is, people don't think to even look for them, because as a wise man once said, you don't know what you don't know. How would anyone even begin to guess that there is a fourth nephew named Phooey in &lt;em&gt;DuckTales Remastered&lt;/em&gt;? Why would someone ever look for secret monkey heads in every Harmonix game?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;These and many other secrets had remained undiscovered by the world, until now. I helped dig up a few of them, but many of them were 100% new to me. Check out the full panel above for all the secrets, and if you know any new ones, let us know in the comments.&amp;nbsp;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498136-67310copy.jpg&quot; alt=&quot;Never before seen game secrets revealed  screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/YCdP6S7Oh0M&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/never-before-seen-game-secrets-revealed-498136.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498119</id>
+		<author>
+			<name>Peter Glagowski</name>
+			<uri>http://www.destructoid.com/blogs/Peter+Glagowski</uri>
+		</author>
+		<title>Chrono Trigger's PC port gets its first patch</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/GPM1hG-u6C4/chrono-trigger-s-pc-port-gets-its-first-patch-498119.phtml"/>
+		<published>2018-04-10T20:00:00Z</published>
+		<updated>2018-04-10T20:00:00Z</updated>
+		<content type="html">&lt;p&gt;&lt;em&gt;Chrono Trigger&lt;/em&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/chrono-trigger-has-come-to-steam-but-it-looks-off-491961.phtml&quot;&gt;randomly appearing&lt;/a&gt; on Steam should have been a dream come true, but Square Enix's ports of classic RPGs have always been plagued with issues. The most pressing thing wrong with &lt;em&gt;Chrono Trigger&lt;/em&gt; was the hideous filter applied to the backgrounds and character sprites, but today's update has added the option to trigger the &quot;Original&quot; graphics, which is a good start.&lt;/p&gt;
+&lt;p&gt;The first in a series of updates that isn't stopping at just presentation, this patch also addresses things like font sizes, text boxes, the intro sequence and dialogue window graphics. This should bring the game more in line with how fans remembered it instead of the softer, less distinguished look the PC port originally had.&lt;/p&gt;
+&lt;p&gt;Here are the patch notes, for those interested:&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&quot;_mcePaste&quot; class=&quot;mcePaste&quot; style=&quot;position: absolute; left: -10000px; top: 872px; width: 1px; height: 1px; overflow: hidden;&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://steamcommunity.com/games/613830/announcements/detail/1651007810320700306&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;CHRONO TRIGGER&lt;/em&gt; &amp;ndash; Patch #1 Update&lt;/a&gt; [Steam Community]&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498119-chrono-trigger-capa.jpg&quot; alt=&quot;Chrono Trigger's PC port gets its first patch screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/chrono-trigger-s-pc-port-gets-its-first-patch-498119.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/GPM1hG-u6C4&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/chrono-trigger-s-pc-port-gets-its-first-patch-498119.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498106</id>
+		<author>
+			<name>Peter Glagowski</name>
+			<uri>http://www.destructoid.com/blogs/Peter+Glagowski</uri>
+		</author>
+		<title>Overlooked indie games from the PAX show floor</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/n0m1EAu8rAM/overlooked-indie-games-from-the-pax-show-floor-498106.phtml"/>
+		<published>2018-04-10T19:00:00Z</published>
+		<updated>2018-04-10T19:00:00Z</updated>
+		<content type="html">&lt;p&gt;I didn&amp;rsquo;t spend my entire weekend at PAX doing business. In between a few  appointments, I got the time to catch up with an old friend and walk  around the show floor from a more casual perspective. Without giving  away that I was there with a media badge, I wanted the chance to take a  look at some games without guided tours or a specifically curated speech  about the different game systems.&lt;/p&gt;
+&lt;p&gt;Through my travels, I saw a few games that I wanted to talk about,  though nothing that I went in-depth enough with to write individual  pieces on. Here is my slightly more pedestrian look at a few charming  indie games that stuck out to me.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498106-BCEC.jpg&quot; alt=&quot;Overlooked indie games from the PAX show floor screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/overlooked-indie-games-from-the-pax-show-floor-498106.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/n0m1EAu8rAM&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/overlooked-indie-games-from-the-pax-show-floor-498106.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498118</id>
+		<author>
+			<name>Brett Makedonski</name>
+			<uri>http://www.destructoid.com/blogs/Brett+Makedonski</uri>
+		</author>
+		<title>Gears of War 2 is getting Xbox One X enhancements, and all its DLC is free</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/bTQ8Fuz01a8/gears-of-war-2-is-getting-xbox-one-x-enhancements-and-all-its-dlc-is-free-498118.phtml"/>
+		<published>2018-04-10T18:10:00Z</published>
+		<updated>2018-04-10T18:10:00Z</updated>
+		<content type="html">&lt;p&gt;There have been rumors in recent days that &lt;em&gt;Gears of War 2&lt;/em&gt;&amp;nbsp;would be getting a remaster a la the &lt;em&gt;&lt;a href=&quot;https://www.destructoid.com/review-gears-of-war-ultimate-edition-306974.phtml&quot; target=&quot;_blank&quot;&gt;Gears of War: Ultimate Edition&lt;/a&gt;&lt;/em&gt;. That's not quite the case, but it's not too far removed. &lt;em&gt;Gears of War 2&lt;/em&gt;&amp;nbsp;will be looking better than it ever has before.&lt;/p&gt;
+&lt;p&gt;As a part of its &lt;a href=&quot;https://www.youtube.com/watch?v=ufsGn7eXY3k&quot; target=&quot;_blank&quot;&gt;Inside Xbox livestream&lt;/a&gt;, Xbox has revealed that it's enhancing &lt;em&gt;Gears of War 2&lt;/em&gt;&amp;nbsp;on Xbox One X. &lt;a href=&quot;https://www.destructoid.com/four-xbox-360-games-run-better-on-xbox-one-x-now-including-crackdown-491951.phtml&quot; target=&quot;_blank&quot;&gt;Other Xbox 360 games that have gotten this treatment&lt;/a&gt; mostly took advantage of a visual overhaul. As Microsoft has said in the past, this allows for: nine times the pixels as the original games had, a 10-bit color depth rather than 8-bit, increased texture details and anti-aliasing. Performance is optimized to some degree too with framerate smoothing.&lt;/p&gt;
+&lt;p&gt;However, the enhancements likely mean the idea of &lt;em&gt;Gears of War 2: Ultimate Edition&lt;/em&gt;&amp;nbsp;is dead -- at least for now. Anyone who wants to play &lt;em&gt;Gears 2&lt;/em&gt;&amp;nbsp;at its best needs to buy an Xbox One X, which is a much more significant investment than plopping down $60 for a remaster. But, anyone who already has an X stands to benefit.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gears of War 2&lt;/em&gt;&amp;nbsp;(and all the other &lt;em&gt;Gears&lt;/em&gt;) has been a part of the Xbox One backward compatibility program for a long time now, so the opportunity to play it is still there. Accompanying the announcement, Microsoft revealed that it's making all of &lt;em&gt;Gears 2&lt;/em&gt;'s DLC free. That should help bolster the game's multiplayer map count.&lt;/p&gt;
+&lt;p&gt;The Xbox One X enhancements went live today for &lt;em&gt;Gears of War 2&lt;/em&gt;. Its upgrades aren't launching alone, though. Alongside &lt;em&gt;Gears 2&lt;/em&gt;, five more titles are getting the same treatment: &lt;em&gt;Red Dead Redemption&lt;/em&gt;, &lt;em&gt;Sonic Generations&lt;/em&gt;, &lt;em&gt;Portal 2&lt;/em&gt;, &lt;em&gt;Darksiders&lt;/em&gt;, and &lt;em&gt;Star Wars: The Force Unleashed&lt;/em&gt;.&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498118-GearsHeader.jpg&quot; alt=&quot;Gears of War 2 is getting Xbox One X enhancements, and all its DLC is free screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/bTQ8Fuz01a8&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/gears-of-war-2-is-getting-xbox-one-x-enhancements-and-all-its-dlc-is-free-498118.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498111</id>
+		<author>
+			<name>Jordan Devore</name>
+			<uri>http://www.destructoid.com/blogs/Jordan+Devore</uri>
+		</author>
+		<title>Iconoclasts is headed to Nintendo Switch this year</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/dsjLnX7LK_w/iconoclasts-is-headed-to-nintendo-switch-this-year-498111.phtml"/>
+		<published>2018-04-10T18:00:00Z</published>
+		<updated>2018-04-10T18:00:00Z</updated>
+		<content type="html">&lt;p&gt;Nintendo Switch owners won't have to wait indefinitely for Joakim Sandberg's wonderful action-adventure title &lt;em&gt;Iconoclasts&lt;/em&gt;. As confirmed by the developer today, it's officially coming over.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Gasp, &lt;a href=&quot;https://twitter.com/hashtag/Iconoclasts?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Iconoclasts&lt;/a&gt; is coming to &lt;a href=&quot;https://twitter.com/hashtag/Switch?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Switch&lt;/a&gt;! I look forward to new people experiencing my game and thanks for support if you did already &amp;#129505; &lt;br&gt;&lt;br&gt;I&amp;#39;ll be adding to all changing difficulty as you load game, a difficulty that lets you get past harder challenges without dying and Boss Rush! &lt;a href=&quot;https://t.co/4yXbmwy7c3&quot;&gt;pic.twitter.com/4yXbmwy7c3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Joakim Sandberg (@konjak) &lt;a href=&quot;https://twitter.com/konjak/status/983783689359421442?ref_src=twsrc%5Etfw&quot;&gt;April 10, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;The Switch version is being handled by &lt;a href=&quot;https://mp2.dk/&quot; target=&quot;_blank&quot;&gt;MP2 Games&lt;/a&gt;, the studio behind ports of games like &lt;em&gt;Noitu Love Devolution&lt;/em&gt;, &lt;em&gt;Not a Hero&lt;/em&gt;, and &lt;em&gt;Freedom Planet&lt;/em&gt;. It's said to be out &quot;later this year.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Destructoid's own Nic Rowen &lt;a target=&quot;_blank&quot; href=&quot;https://www.destructoid.com/review-iconoclasts-483805.phtml&quot;&gt;gave the game&lt;/a&gt; a 9.5 out of 10 earlier this year, writing: &quot;&lt;em&gt;Iconoclasts&lt;/em&gt; might be a delightful action-adventure romp, but it's also a look at  oppression, what it's like to live life outside the lines. &lt;span&gt;That's where &lt;em&gt;Iconoclasts&lt;/em&gt; lives too, outside the lines. Of  its genre, its inspirations, and its  expectations. It's a delightful  surprise, the kind that doesn't come  around often enough.&quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;I can already tell this is just going to feel right on Switch.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/konjak/status/983783689359421442&quot;&gt;Joakim Sandberg&lt;/a&gt; [Twitter]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498111-h1.jpg&quot; alt=&quot;Iconoclasts is headed to Nintendo Switch this year screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/dsjLnX7LK_w&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/iconoclasts-is-headed-to-nintendo-switch-this-year-498111.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498097</id>
+		<author>
+			<name>Brett Makedonski</name>
+			<uri>http://www.destructoid.com/blogs/Brett+Makedonski</uri>
+		</author>
+		<title>(Update) Morrowind and four other original Xbox titles seem set to hit Xbox One backward compatibility</title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/nY2QQDW5JGc/-update-morrowind-and-four-other-original-xbox-titles-seem-set-to-hit-xbox-one-backward-compatibility-498097.phtml"/>
+		<published>2018-04-10T17:46:00Z</published>
+		<updated>2018-04-10T17:46:00Z</updated>
+		<content type="html">&lt;p&gt;[&lt;strong&gt;Update:&lt;/strong&gt;&amp;nbsp;Xbox just confirmed these five and whole lot more. As it turns out, &lt;em&gt;NINETEEN &lt;/em&gt;original Xbox games are hitting backward compatibility throughout the month. On April 17, &lt;em&gt;Blinx: The Time Sweeper&lt;/em&gt;, &lt;em&gt;Breakout&lt;/em&gt;, &lt;em&gt;Conker: Live &amp;amp; Reloaded&lt;/em&gt;, &lt;em&gt;The Elder Scrolls III: Morrowind&lt;/em&gt;, &lt;em&gt;Hunter: The Reckoning&lt;/em&gt;, &lt;em&gt;Jade Empire&lt;/em&gt;, &lt;em&gt;Panzer Dragoon Orta&lt;/em&gt;, and &lt;em&gt;SSX 3&lt;/em&gt;&amp;nbsp;become backward compatible; on April 26, &lt;em&gt;Destroy All Humans&lt;/em&gt;, &lt;em&gt;Full Spectrum Warrior&lt;/em&gt;, &lt;em&gt;Mercenaries: Playground of Destruction&lt;/em&gt;, &lt;em&gt;MX Unleashed&lt;/em&gt;, &lt;em&gt;Panzer Elite Action: Fields of Glory&lt;/em&gt;&amp;nbsp;(exclusive to Europe), &lt;em&gt;Star Wars: Battlefront&lt;/em&gt;, &lt;em&gt;Star Wars Battlefront II&lt;/em&gt;, &lt;em&gt;Star Wars Jedi Knight: Jedi Academy&lt;/em&gt;, &lt;em&gt;Star Wars: Jedi Starfighter&lt;/em&gt;, &lt;em&gt;Star Wars: Knights of the Old Republic 2: The Sith Lords&lt;/em&gt;, and &lt;em&gt;Star Wars: Republic Commando&lt;/em&gt;&amp;nbsp;join the program.]&lt;/p&gt;
+&lt;p&gt;One of the highlights of Microsoft's E3 2017 was the reveal that &lt;a href=&quot;https://www.destructoid.com/original-xbox-games-are-coming-to-xbox-one-backward-compatibility-441198.phtml&quot; target=&quot;_blank&quot;&gt;original Xbox games would come to Xbox One&lt;/a&gt; through the backward compatibility program. However, it has been a relatively slow process. We're now 10 months removed from the announcement and there are only 13 titles to choose from. That number seems like it'll grow imminently.&lt;/p&gt;
+&lt;p&gt;Last week, &lt;a href=&quot;https://www.destructoid.com/microsoft-is-prepping-a-big-update-for-original-xbox-backward-compatibility-497116.phtml&quot; target=&quot;_blank&quot;&gt;Microsoft teased a &quot;big update&quot;&lt;/a&gt; to original Xbox backward compatibility as part of today's Inside Xbox show. Thanks to some well-timed leaks, we're reasonably sure we know what to expect. Listings for &lt;em&gt;Elder Scrolls III: Morrowind&lt;/em&gt;, &lt;em&gt;Destroy All Humans&lt;/em&gt;, &lt;em&gt;MX Unleashed&lt;/em&gt;, &lt;em&gt;Panzer Elite Action&lt;/em&gt;, and &lt;em&gt;Full Spectrum Warrior&lt;/em&gt;&amp;nbsp;all appeared on the Xbox store today. They have since been pulled.&lt;/p&gt;
+&lt;p&gt;Assuming this list is accurate, it has some highly-regarded games from the early 2000s. Also, it'll mean that the past three &lt;em&gt;Elder Scrolls&lt;/em&gt;&amp;nbsp;titles are all available on the same console. We'll find out later today if this leak pans out, and we'll update the article accordingly.&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.windowscentral.com/original-xbox-listings-surface-ahead-xbox-one-backward-compatibility-update&quot;&gt;Original Xbox listings surface ahead of Xbox One backward compatibility update&lt;/a&gt; [Windows Central]&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498097-XboxHeader.jpg&quot; alt=&quot;(Update) Morrowind and four other original Xbox titles seem set to hit Xbox One backward compatibility screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/-update-morrowind-and-four-other-original-xbox-titles-seem-set-to-hit-xbox-one-backward-compatibility-498097.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/nY2QQDW5JGc&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/-update-morrowind-and-four-other-original-xbox-titles-seem-set-to-hit-xbox-one-backward-compatibility-498097.phtml</feedburner:origLink>
+	</entry>
+	<entry>
+		<id>tag:https://www.destructoid.com/,2018:/post.phtml?pk=498109</id>
+		<author>
+			<name>Rich Meister</name>
+			<uri>http://www.destructoid.com/blogs/Rich+Meister</uri>
+		</author>
+		<title>Arcade action meets biker gangs in Steel Rats </title>
+		<link href="http://feedproxy.google.com/~r/Destructoid/~3/tVD41nQEhxM/arcade-action-meets-biker-gangs-in-steel-rats-498109.phtml"/>
+		<published>2018-04-10T17:30:00Z</published>
+		<updated>2018-04-10T17:30:00Z</updated>
+		<content type="html">&lt;p&gt;One of my last stops at PAX East 2018 was to check out &lt;em&gt;Steel Rats&lt;/em&gt;. The project from Tate Multimedia is being handled by a small team of no more than thirty Polish developers.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The game puts you in control of the Steel Rats biker gang making their way through a quarantined city infected by a deadly virus and filled to the brim with killer robots.&amp;nbsp;&lt;/p&gt;					&lt;p&gt;
+						&lt;img src=&quot;http://www.destructoid.com//ul/498109-STRheader.jpg&quot; alt=&quot;Arcade action meets biker gangs in Steel Rats  screenshot&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;
+					&lt;/p&gt;
+				&lt;a target=&quot;_blank&quot; href=&quot;http://www.destructoid.com/arcade-action-meets-biker-gangs-in-steel-rats-498109.phtml&quot;&gt;Read more...&lt;/a&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/Destructoid/~4/tVD41nQEhxM&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot;/&gt;</content>
+		<feedburner:origLink>https://www.destructoid.com/arcade-action-meets-biker-gangs-in-steel-rats-498109.phtml</feedburner:origLink>
+	</entry>
+</feed>
