@@ -65,11 +65,6 @@ namespace WebApplication1.Controllers
                 var client = new HttpClient();
                 var linkUri = new Uri(rssLink);
                 var result = client.GetStreamAsync(linkUri).Result;
-                /*
-                using (var xmlReader = XmlReader.Create(result))
-                {
-                    SyndicationFeed feed = S
-                }*/
 
                     //Populates the article list as empty and with error handling text if there is an error
                     for (int i = 0; i < articleList.Length; i++)
