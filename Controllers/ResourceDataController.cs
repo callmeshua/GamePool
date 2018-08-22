@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using System.Xml;
+using System.Net.Http;
 
 namespace WebApplication1.Controllers
 {
@@ -39,7 +40,7 @@ namespace WebApplication1.Controllers
             ns.AddNamespace("content", "http://purl.org/rss/1.0/modules/content/");
 
             //new list of articles to be returned
-            string[][] articleList = new string[20][];
+            string[][] articleList = new string[30][];
 
             // Load the RSS file from the RSS URL
             try
@@ -53,6 +54,7 @@ namespace WebApplication1.Controllers
                 {
                     articleList[i] = new string[] { "ERR INVALID RSS LINK", "err001", "", "", "", "", "" };
                 }
+                Console.Write(rssLink + "invalid");
                 return articleList;
             }
 
@@ -60,19 +62,28 @@ namespace WebApplication1.Controllers
             XmlNodeList rssNodes = rssXmlDoc.SelectNodes("rss/channel/item");
             if (rssNodes.Count == 0)
             {
-                //Populates the article list as empty and with error handling text if there is an error
-                for (int i = 0; i < articleList.Length; i++)
+                var client = new HttpClient();
+                var linkUri = new Uri(rssLink);
+                var result = client.GetStreamAsync(linkUri).Result;
+                /*
+                using (var xmlReader = XmlReader.Create(result))
                 {
-                    articleList[i] = new string[] { "Atom Format, Cannot Read", "err002", "", "", "", "", "" };
+                    SyndicationFeed feed = S
+                }*/
+
+                    //Populates the article list as empty and with error handling text if there is an error
+                    for (int i = 0; i < articleList.Length; i++)
+                    {
+                        articleList[i] = new string[] { "Atom Format, Cannot Read", "err002", "", "", "", "", "" };
                 }
+                Console.Write(rssLink + "invalid");
                 return articleList;
             }
             else
             {
 
                 //loops through the article list to populate
-                for (int index = 0; index < articleList.Length;
-                    index++)
+                for (int index = 0; index < 30; index++)
                 {
                     XmlNode rssNode = rssNodes[index];
 
@@ -109,7 +120,8 @@ namespace WebApplication1.Controllers
                         else if ((description.Contains("src=") || description.Contains("<img")) && image == "" && rssSubNode == null)
                         {
                             int imageLoc = description.IndexOf("src=") + 5;
-                            int imageLength = description.IndexOf(" ", description.IndexOf("src=")) - imageLoc - 1;
+                            int spaceLen = description.IndexOf(" ", description.IndexOf("src=")) > 0 ? description.IndexOf(" ", description.IndexOf("src=")) : description.IndexOf(">", description.IndexOf("src="));
+                            int imageLength = spaceLen - imageLoc - 1;
                             string imageLink = description.Substring(imageLoc, imageLength);
 
                             //makes sure the link is an image file (could be youtube link or any other src)
@@ -126,6 +138,7 @@ namespace WebApplication1.Controllers
                             if (content.Contains("src=") && image == "" && rssSubNode != null)
                             {
                                 int imageLoc = content.IndexOf("src=") + 5;
+                                int spaceLen = content.IndexOf(" ", content.IndexOf(" ", content.IndexOf("src=")));
                                 int imageLength = content.IndexOf(" ", content.IndexOf("src=")) - imageLoc - 1;
                                 string imageLink = content.Substring(imageLoc, imageLength);
 
@@ -152,8 +165,14 @@ namespace WebApplication1.Controllers
                         {
                             rssSubNode = rssNode.SelectSingleNode("dc:date", ns);
                         }
-                        string date = rssSubNode != null ? DateTime.Parse(rssSubNode.InnerText.ToString()).ToString() : "";
 
+                        var test = rssSubNode.InnerText;
+                        if (test.Contains("CDT"))
+                        {
+                            test = test.Replace("CDT", "-05:00");
+                        }
+                        string date = rssSubNode != null ? DateTime.Parse(test).ToString() : "";
+                        
                         //gets author of article
                         rssSubNode = rssNode.SelectSingleNode("dc:creator", ns);
                         string author = rssSubNode != null ? rssSubNode.InnerText : "";
@@ -296,7 +315,7 @@ namespace WebApplication1.Controllers
         private static string[,] ResourceColorSchemes =
         {
             {"#222", "#a6d05b", "#c00", "#222"},//destructoid
-            { "rgb(56, 138, 194)", "#ccc", "#333", "#333"},//GI
+            { "#fff", "#1f64e3", "#333", "#333"},//GI
             {"#F26722", "#fff", "#333","#F26722"},//gamesradar
             {"#262626", "#fd0", "#fff", "#e03800" },//gamespot
             {"#414549", "#000", "#861313", "#414549" },//GB
@@ -323,10 +342,10 @@ namespace WebApplication1.Controllers
             },
             //gi
             {
-                {"News", "https://www.gameinformer.com/news.aspx" },
-                {"Previews", "https://www.gameinformer.com/previews.aspx" },
-                {"Reviews","https://www.gameinformer.com/reviews.aspx" },
-                {"The Lab","https://www.gameinformer.com/p/thelab.aspx" },
+                {"News", "https://www.gameinformer.com/news" },
+                {"Previews", "https://www.gameinformer.com/previews" },
+                {"Reviews","https://www.gameinformer.com/reviews" },
+                {"Videos","https://www.gameinformer.com/videos" },
                 {"YouTube","https://www.youtube.com/user/gameinformer" },
                 {"Twitter","https://twitter.com/GameInformer" }
             },
@@ -427,11 +446,11 @@ namespace WebApplication1.Controllers
         {
             
             "http://feeds.feedburner.com/Destructoid",//destructoid
-            "https://www.gameinformer.com/b/MainFeed.aspx?Tags=news",//gi
+            "https://www.gameinformer.com/rss.xml",//gi
             "https://www.gamesradar.com/all-platforms/news/rss/",//gamesradar
             "https://www.gamespot.com/feeds/mashup",//gamespot
             "https://www.giantbomb.com/feeds/mashup",//gb
-            "http://feeds.ign.com/ign/games-all",//ign
+            "http://feeds.ign.com/ign/all",//ign
             "http://www.nintendolife.com/feeds/latest",//nintendo life
             "https://www.pcgamer.com/rss/",//pc gamer
             "http://feeds.feedburner.com/psblog",//playstation.blog
@@ -443,7 +462,7 @@ namespace WebApplication1.Controllers
         private static string[] LogoLinks = new string[]
         {
             "https://www.destructoid.com/sites/_default/img/top-nav/destructoid-logo.png",//dtoid
-            "https://pbs.twimg.com/profile_images/798310412508770304/EVgG-Ldt.jpg",//gi
+            "https://i.imgur.com/sgYh6bC.png",//gi
             "https://static-cdn.jtvnw.net/jtv_user_pictures/gamesradar-profile_image-a0672b8671d3dac3-300x300.png",//gr
             "http://icons.iconarchive.com/icons/custom-icon-design/pretty-social-media-2/256/Gamespot-icon.png",//gs
             "http://i.imgur.com/oVjj4Iu.png",//gb

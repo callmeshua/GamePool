@@ -12,7 +12,7 @@ export class NavMenu extends React.Component<{}, {}> {
                         <span className='icon-bar'></span>
                         <span className='icon-bar'></span>
                     </button>
-                    <Link className='navbar-brand' to={'/news'} style={{ backgroundColor: "#162c45"}}>GamePool</Link>
+                    <Link className='navbar-brand' to={'/'} style={{ backgroundColor: "#162c45"}}>GamePool</Link>
                 </div>
                 <div className='navbar-collapse collapse'>
                     <ul className='nav navbar-nav'>

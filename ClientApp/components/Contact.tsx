@@ -19,7 +19,7 @@ export class Contact extends React.Component<RouteComponentProps<{}>> {
             </h4>
             <hr />
             <p>
-                We are not responsible for any issues with an individual resources website.<br/>
+                We are not responsible for any issues with an individual resource's website.<br/>
                 If there are any issues with a website's service, please contact the respectve website's support for information.
             </p>
             <hr/>
