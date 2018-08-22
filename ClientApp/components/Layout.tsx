@@ -16,7 +16,7 @@ export class Layout extends React.Component<LayoutProps, {}> {
                 </div>
                 <div className='Row' style={{width: "100%"}}>
                     {this.props.children}
-                    <Copyright /> <br/>V1.2.2
+                    <Copyright />
                 </div>
             </div>
         </div>;

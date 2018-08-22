@@ -308,13 +308,7 @@ export class News extends React.Component<RouteComponentProps<{}>, FetchDataStat
         var bodyContent;
 
         if (article.image == "") {
-            var GIDescription = "";
-            if (article.resource.name == "Game Informer") {
-                var paragraphLength = article.desc.indexOf("</p>") - article.desc.indexOf("<p>") + 4;
-                GIDescription = article.desc.substring(paragraphLength, article.desc.indexOf("<p>"));
-                console.warn(GIDescription + " " + paragraphLength + " " + article.desc.indexOf("<p>"));
-            }
-            var description = article.desc.indexOf("<p>") >= 0 ? <div dangerouslySetInnerHTML={{ __html: GIDescription }} /> : <div>{article.desc}</div>;
+            var description = article.desc.indexOf("<p>") >= 0 ? <div dangerouslySetInnerHTML={{ __html: article.desc }} /> : <div>{article.desc}</div>;
             bodyContent =
                 <div style={{ color: article.resource.color1, maxHeight: "7.2em", verticalAlign: "middle" }} className="block-with-text" href={article.link} target="_blank" >
                 <Image src={article.resource.logo} style={{ height: "100%", objectFit: "cover", opacity: .25, zIndex: 1, position: "absolute", marginLeft: "-30%", webkitFilter: "drop-shadow(1px 1px 0 black) drop-shadow(-1px -1px 0 black)", filter: "drop-shadow(1px 1px 0 black), drop-shadow(-1px -1px 0 black)" }} />
