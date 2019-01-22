@@ -82,9 +82,9 @@ export class News extends React.Component<RouteComponentProps<{}>, FetchDataStat
                 <br /><br />
                 Below are the 20 most recently published articles from each of your favorite video game news outlets.
                 <br /><br />
-                Each resource is associated with a color scheme so you can easily spot out your favorite website's articles.
+                Each source is associated with a color scheme so you can easily spot out your favorite website's articles.
                 <br /><br />
-                To see our list of resources, check out the Resources tab in the menu.
+                To see our list of sources, check out the sources tab in the menu.
             </h4>
             <hr />
             <div>
@@ -117,15 +117,15 @@ export class News extends React.Component<RouteComponentProps<{}>, FetchDataStat
 
     //renders the sort dropdown with resource, date-ascending, and date-descending buttons
     renderSortDropdown() {
-        var resourceCheck: JSX.Element   = this.state.sortBy == "resource"        ? < span className='glyphicon glyphicon-check' ></span> : < span className='glyphicon glyphicon-unchecked' ></span>;
+        var resourceCheck: JSX.Element   = this.state.sortBy == "source"        ? < span className='glyphicon glyphicon-check' ></span> : < span className='glyphicon glyphicon-unchecked' ></span>;
         var ascendingCheck: JSX.Element  = this.state.sortBy == "date-ascending"  ? < span className='glyphicon glyphicon-check' ></span> : < span className='glyphicon glyphicon-unchecked' ></span>;
         var descendingCheck: JSX.Element = this.state.sortBy == "date-descending" ? < span className='glyphicon glyphicon-check' ></span> : < span className='glyphicon glyphicon-unchecked' ></span>;
 
         return <DropdownButton onSelect={(evt: any) => { this.setState({ sortBy: evt }) }}
                                 style={{ backgroundColor: "#1d406b", color: "white", borderColor: "#0e1c2c" }}
                                 title="Sort" id={`dropdown-basic-{i}`}>
-                    <MenuItem eventKey="resource" >
-                        {resourceCheck}&nbsp;&nbsp;<span className="menu-item">Resource</span>
+                    <MenuItem eventKey="source" >
+                        {resourceCheck}&nbsp;&nbsp;<span className="menu-item">Source</span>
                     </MenuItem>
                     <MenuItem eventKey="date-ascending">
                         {ascendingCheck}&nbsp;&nbsp;<span className="menu-item">Date - Ascending</span>
@@ -178,7 +178,7 @@ export class News extends React.Component<RouteComponentProps<{}>, FetchDataStat
         var panelCols: JSX.Element[] = [];
         var articleList = [];
 
-        if (this.state.sortBy == "resource") {
+        if (this.state.sortBy == "source") {
             articleList = this.state.articles.sort((a, b) => {
                 if (a.resource.name < b.resource.name) return -1;
                 if (a.resource.name > b.resource.name) return 1;

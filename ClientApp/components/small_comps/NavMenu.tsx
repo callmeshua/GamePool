@@ -23,7 +23,7 @@ export class NavMenu extends React.Component<{}, {}> {
                         </li>
                         <li>
                             <NavLink to={'/resources'} activeClassName='active' data-toggle='collapse' data-target='.navbar-collapse'>
-                                <span className='glyphicon glyphicon-list-alt'></span>Resources
+                                <span className='glyphicon glyphicon-list-alt'></span>Sources
                             </NavLink>
                         </li>
                         <li>

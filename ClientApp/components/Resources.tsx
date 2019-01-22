@@ -29,11 +29,11 @@ export class Resources extends React.Component<RouteComponentProps<{}>, FetchDat
     public render() {
         //if still loading, render bar, else render the table
         let contents = this.state.loading
-            ? <div><ProgressBar active now={100} label="Loading Resources..." style={{ width: "200px" }} /></div>
+            ? <div><ProgressBar active now={100} label="Loading Sources..." style={{ width: "200px" }} /></div>
             : Resources.renderResourceCardTable(this.state.resources);
 
         return <div>
-                    <h1>Resources</h1>
+                    <h1>Sources</h1>
                     <h4>All the best gaming news outlets in one convenient place.</h4>
                     <hr />
                     {contents}

@@ -463,7 +463,7 @@ namespace WebApplication1.Controllers
             "http://i.imgur.com/oVjj4Iu.png",//gb
             "https://i.imgur.com/dPx8RI0.png",//ign
             "https://i.imgur.com/Tcx3S2s.png",//NL
-            "https://yt3.ggpht.com/a-/AJLlDp0eTVg4WcJmpy0YvW4MIoQ2FZ1ZvOmXwfkgbw=s900-mo-c-c0xffffffff-rj-k-no",//pcg
+            "https://i.imgur.com/XJ9HN4l.jpg",//pcg
             "https://farm4.staticflickr.com/3937/15725947641_8ac87c1275_o.jpg",//psb
             "https://i.imgur.com/R2yOOQt.png",//poly
             "https://assets.vg247.com/current//2016/02/VG247-SQ_Red-on-White.jpg",//vg247
